@@ -1,5 +1,5 @@
 
-[Pharr40](vocabulary-pharr40.html)
+[Pharrx40](vocabulary-pharr40.html)
 
 fiddle
 
