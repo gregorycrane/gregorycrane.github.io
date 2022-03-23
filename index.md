@@ -1,5 +1,5 @@
 
-[Pharr40](https://github.com/gregorycrane/gregorycrane.github.io/blob/master/vocabulary-pharr40.html)
+[Pharr40](vocabulary-pharr40.html)
 
 fiddle
 
