@@ -1,5 +1,5 @@
 
-[Pharry40](gregorycrane.github.io/https://github.com/gregorycrane/perstreebanks/vocabulary-pharr40.html)
+[Pharryb40](gregorycrane.github.io/perstreebanks/vocabulary-pharr40.html)
 
 text
 
