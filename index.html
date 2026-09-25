@@ -1,15 +1,156 @@
 ---
 layout: default
-
 ---
-<html>
-    <head/>
-    <body>
-<h1>experiment</h1>
-<h4>GRC<h4>
-    <h1>Treebank Visualizations</h1>
-    
-    Look at <a href="vparads.html">verb parad freqs</a>
-    <h1>Teach yourself Greek: Pharr <a href="vocabulary-pharr10.html">10</a>; <a href="vocabulary-pharr40.html">40.</a> </h1>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=GFS+Didot&display=swap" rel="stylesheet">
 
-</body></html>
+<style>
+  .gc-home {
+    --ink: #2b2622;
+    --muted: #6b625a;
+    --accent: #8a3b2a;
+    --rule: #ddd3c7;
+    --card: #faf6f0;
+    max-width: 44rem;
+    margin: 0 auto;
+    padding: 2.5rem 1rem 3rem;
+    color: var(--ink);
+    font-family: "EB Garamond", Georgia, serif;
+    font-size: 1.15rem;
+    line-height: 1.6;
+  }
+  @media (prefers-color-scheme: dark) {
+    .gc-home {
+      --ink: #ece6de;
+      --muted: #b3a99e;
+      --accent: #d98a72;
+      --rule: #4a423b;
+      --card: #26211d;
+    }
+  }
+  .gc-home a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+  .gc-home h1 { font-weight: 500; font-size: 2.4rem; margin: 0; letter-spacing: 0.01em; }
+  .gc-home .role { color: var(--muted); margin: 0.3rem 0 0; }
+  .gc-home .epigraph {
+    margin: 2.2rem 0 2rem;
+    padding-left: 1rem;
+    border-left: 2px solid var(--accent);
+  }
+  .gc-home .epigraph .grc { font-family: "GFS Didot", "EB Garamond", serif; font-size: 1.2rem; }
+  .gc-home .epigraph .tr { color: var(--muted); font-style: italic; font-size: 1rem; }
+  .gc-home h2 {
+    font-weight: 500;
+    font-size: 0.85rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--muted);
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 0.3rem;
+    margin: 2.6rem 0 1.2rem;
+  }
+  .gc-home .project {
+    background: var(--card);
+    border: 1px solid var(--rule);
+    border-radius: 4px;
+    padding: 1.2rem 1.4rem;
+    margin-bottom: 1.2rem;
+  }
+  .gc-home .project h3 { font-weight: 500; font-size: 1.4rem; margin: 0 0 0.5rem; }
+  .gc-home .project p { margin: 0 0 0.7rem; }
+  .gc-home .project .go { font-style: italic; }
+  .gc-home ul { padding-left: 1.2rem; }
+  .gc-home li { margin-bottom: 0.4rem; }
+  .gc-home .support { font-size: 1rem; color: var(--muted); }
+  .gc-home .support a { color: inherit; }
+  .gc-home footer { margin-top: 2.6rem; font-size: 1rem; color: var(--muted); }
+</style>
+
+<div class="gc-home">
+
+  <header>
+    <h1>Gregory Crane</h1>
+    <p class="role"><a href="https://as.tufts.edu/classicalstudies/people/faculty/gregory-crane">Professor and Chair, Department of Classical Studies, Tufts University</a><br>
+    Editor-in-Chief, <a href="https://www.perseus.tufts.edu/">Perseus Digital Library</a></p>
+  </header>
+
+  <blockquote class="epigraph">
+    <div class="grc" lang="grc">μανθάνειν οὐ μόνον τοῖς φιλοσόφοις ἥδιστον ἀλλὰ καὶ τοῖς ἄλλοις ὁμοίως</div>
+    <div class="tr">Learning is a great pleasure, not only for philosophers but for everyone else as well. — Aristotle, <span lang="la">Poetics</span> 1448b13</div>
+  </blockquote>
+
+  <p>I work on how people read the languages and sources of the ancient world, and on how
+  digital methods can widen the circle of those who are able to do that reading. Most of
+  this work happens through the Perseus Digital Library, which has been publishing primary
+  sources for the study of antiquity since the late 1980s. This page gathers current
+  projects and some of the working materials behind them; much of it is unfinished and
+  changes often.</p>
+
+  <h2>Current projects</h2>
+
+  <section class="project">
+    <h3>Perseus MVP (Minimum Viable Perseus)</h3>
+    <p>For more than twenty years, the current Perseus Digital Library (P4) has been the main
+    home for Perseus collections. It has become hard to update and is prone to outages under
+    automated scraping. Perseus MVP, now in public beta, is our effort to keep it available
+    over the long term. It compiles the TEI collections that Perseus maintains into static
+    pages delivered by a simple web server, and all computation happens in the reader’s
+    browser. It keeps the familiar P4 reading experience of texts, translations, and
+    click-to-look-up words with Logeion, LSJ, and Lewis &amp; Short. It also adds content
+    not found in P4, including draft digital versions of critical editions, commentaries,
+    and dictionaries. Several P4 features, such as corpus search and cross-references, are
+    still to come, and we would be grateful for reports from those who use it.</p>
+    <p>The implementation is by Charles Pletcher, building on a design by Clifford Wulfman
+    and on decades of curation by Lisa Cerrato, Alison Babeu, and others. Supported by the
+    National Endowment for the Humanities (“Perseus on the Web: Preparing for the Next
+    Thirty Years,” PW-290565-23).</p>
+    <p class="go"><a href="https://beta.perseus.tufts.edu">Try Beta Perseus →</a></p>
+  </section>
+
+  <section class="project">
+    <h3>Perseus Multitext Viewer</h3>
+    <p>This is my experimental environment for trying out new features and new content.
+    Some of what proves useful here, though not necessarily all of it, is meant to feed
+    into Perseus MVP.</p>
+    <p>A reading environment in which a text appears beside its translations, commentaries,
+    word-by-word linguistic annotation, lexicon entries, and manuscript images, all aligned
+    to the same passage. It runs as a static website with no server behind it, which keeps
+    it inexpensive to host and easier to preserve. Alongside Greek and Latin it already
+    includes Arabic, Persian, and Japanese texts, and it is meant over time to cover the
+    canonical Greek and Latin corpus. The code and data are open, and corrections are
+    welcome.</p>
+    <p class="go"><a href="MULTITEXT_URL">Open the Viewer →</a></p>
+  </section>
+
+  <section class="project">
+    <h3>Aristotle’s <em>Poetics</em> in Greek, Arabic and Latin</h3>
+    <p>With support from the National Endowment for the Humanities, we are bringing
+    together the Greek text of the <em>Poetics</em>, its Arabic and Latin transmissions,
+    and modern translations as a step towards a variorum edition. The <em>Poetics</em>
+    also serves as the main test case for how the Viewer presents a work that has
+    travelled across languages.</p>
+  </section>
+
+  <h2>Working materials</h2>
+  <ul>
+    <li>Treebank visualizations: <a href="vparads.html">verb paradigm frequencies</a></li>
+    <li>Teach yourself Greek with Pharr: vocabulary for lessons
+      <a href="vocabulary-pharr10.html">10</a> and
+      <a href="vocabulary-pharr40.html">40</a></li>
+  </ul>
+
+  <h2>Support</h2>
+  <p class="support">Perseus is currently supported by the
+  <a href="https://www.schmidtsciences.org/">Schmidt Sciences</a> Humanities and AI Virtual
+  Institute (HAVI) (“Beyond Translation: Opening up the Human Record”), the
+  <a href="https://www.neh.gov/">National Endowment for the Humanities</a> (“Perseus on the
+  Web: Preparing for the Next Thirty Years,” PW-290565-23; and “Aristotle’s
+  <em>Poetics</em> in Greek, Arabic and Latin: Towards a Variorum Edition,” RQ-306857-26),
+  and <a href="https://www.tufts.edu/">Tufts University</a>.</p>
+
+  <footer>
+    Department of Classical Studies, Tufts University, Medford, MA ·
+    <a href="mailto:gregory.crane@tufts.edu">gregory.crane@tufts.edu</a> ·
+    <a href="https://as.tufts.edu/classicalstudies/people/faculty/gregory-crane">Tufts faculty profile</a>
+  </footer>
+
+</div>
