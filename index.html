@@ -37,6 +37,37 @@ layout: null
     }
   }
   .gc-home a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+
+  /* Header with profile image */
+  .gc-home header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.8rem;
+  }
+  .gc-home .header-text { flex: 1; }
+  .gc-home .avatar {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center 20%;
+    border: 2px solid var(--rule);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    flex-shrink: 0;
+  }
+  @media (max-width: 580px) {
+    .gc-home header {
+      flex-direction: column-reverse;
+      align-items: flex-start;
+      gap: 1.2rem;
+    }
+    .gc-home .avatar {
+      width: 105px;
+      height: 105px;
+    }
+  }
+
   .gc-home h1 { font-weight: 500; font-size: 2.4rem; margin: 0; letter-spacing: 0.01em; }
   .gc-home .role { color: var(--muted); margin: 0.3rem 0 0; }
   .gc-home .epigraph {
@@ -66,6 +97,31 @@ layout: null
   .gc-home .project h3 { font-weight: 500; font-size: 1.4rem; margin: 0 0 0.5rem; }
   .gc-home .project p { margin: 0 0 0.7rem; }
   .gc-home .project .go { font-style: italic; }
+  /* Forthcoming book */
+  .gc-home .book {
+    display: flex;
+    gap: 1.6rem;
+    align-items: flex-start;
+  }
+  .gc-home .book .cover {
+    width: 150px;
+    flex-shrink: 0;
+    border: 1px solid var(--rule);
+    border-radius: 2px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+  .gc-home .book .cover img { display: block; width: 100%; height: auto; }
+  .gc-home .book .meta { color: var(--muted); font-size: 1rem; margin: 0 0 0.8rem; }
+  .gc-home .book details { margin-top: 0.8rem; }
+  .gc-home .book summary { cursor: pointer; font-style: italic; color: var(--accent); }
+  .gc-home .book details ol { padding-left: 1.4rem; margin: 0.6rem 0 0; font-size: 1.05rem; }
+  .gc-home .book details li { margin-bottom: 0.35rem; }
+  .gc-home .book details .venue { color: var(--muted); }
+  @media (max-width: 580px) {
+    .gc-home .book { flex-direction: column; }
+    .gc-home .book .cover { width: 120px; }
+  }
+
   .gc-home ul { padding-left: 1.2rem; }
   .gc-home li { margin-bottom: 0.4rem; }
   .gc-home .support { font-size: 1rem; color: var(--muted); }
@@ -99,11 +155,14 @@ layout: null
 <div class="gc-home">
 
   <header>
-    <h1>Gregory Crane</h1>
-    <p class="role"><a href="https://as.tufts.edu/classicalstudies/people/faculty/gregory-crane">Professor and Chair, Department of Classical Studies, Tufts University</a><br>
-    Winnick Family Chair of Technology and Entrepreneurship<br>
-    Adjunct Professor of Computer Science<br>
-    Editor-in-Chief, <a href="https://www.perseus.tufts.edu/">Perseus Digital Library</a></p>
+    <div class="header-text">
+      <h1>Gregory Crane</h1>
+      <p class="role"><a href="https://as.tufts.edu/classicalstudies/people/faculty/gregory-crane">Professor and Chair, Department of Classical Studies, Tufts University</a><br>
+      Winnick Family Chair of Technology and Entrepreneurship<br>
+      Adjunct Professor of Computer Science<br>
+      Editor-in-Chief, <a href="https://www.perseus.tufts.edu/">Perseus Digital Library</a></p>
+    </div>
+    <img src="images/gregory-crane.jpg" alt="Gregory Crane" class="avatar">
   </header>
 
   <div class="screens">
@@ -132,6 +191,47 @@ layout: null
   sources for the study of antiquity since the late 1980s. This page gathers current
   projects and some of the working materials behind them; much of it is unfinished and
   changes often.</p>
+
+  <h2>Forthcoming book</h2>
+
+  <section class="project book">
+    <a class="cover" href="https://www.hup.harvard.edu/books/9780674305526">
+      <img src="images/philology-in-a-digital-age.jpeg" alt="Cover of Philology in a Digital Age: Selected Papers">
+    </a>
+    <div>
+      <h3><em>Philology in a Digital Age: Selected Papers</em></h3>
+      <p class="meta">Harvard University Press (New Alexandria Foundation) · November 10, 2026 · paperback, 350 pages</p>
+      <p>This volume collects essays from more than four decades of work, from the first
+      Perseus proposals of the late 1980s to recent reflections on large language models,
+      open data, and the place of Greek and Latin in a multilingual world. Read together,
+      they trace how Greco-Roman philology has changed as its infrastructure moved from
+      print to digital media, and they make a case for a field that keeps adapting to new
+      technologies while remaining open and inclusive. Several of the pieces are published
+      here for the first time.</p>
+      <p class="go"><a href="https://www.hup.harvard.edu/books/9780674305526">Book page at Harvard University Press →</a></p>
+      <details>
+        <summary>Contents</summary>
+        <ol>
+          <li>Introduction: autobiographical motivations and the pre-digital world</li>
+          <li><a href="https://github.com/gregorycrane/GRC-Papers-2026/blob/main/crane-perseus1987.xml">Perseus: the original proposal</a> <span class="venue">(Annenberg/CPB, 1988; previously unpublished)</span></li>
+          <li>Building a Hypertextual Digital Library of London <span class="venue">(JCDL 2001, best paper)</span></li>
+          <li><a href="https://www.dlib.org/dlib/march06/crane/03crane.html">What Do You Do with a Million Books?</a> <span class="venue">(D-Lib Magazine, 2006)</span></li>
+          <li><a href="https://dhq.digitalhumanities.org/vol/3/1/000023/000023.html">Cyberinfrastructure for Classical Philology</a> <span class="venue">(Digital Humanities Quarterly, 2008)</span></li>
+          <li><a href="https://dhq.digitalhumanities.org/vol/3/1/000034/000034.html">Classics in the Million Book Library</a> <span class="venue">(Digital Humanities Quarterly, 2008)</span></li>
+          <li>Give Us Editors! Re-inventing the Edition and Re-thinking the Humanities <span class="venue">(Rice University Press, 2010)</span></li>
+          <li><a href="https://chs.harvard.edu/gregory-crane-greek-latin-and-a-global-dialogue-among-civilizations/">Greek, Latin and a Global Dialogue among Civilizations</a> <span class="venue">(Center for Hellenic Studies)</span></li>
+          <li>Opening up Classics and the Humanities: Computation, the Homer Multitext Project and Citizen Science <span class="venue">(2014)</span></li>
+          <li><a href="https://www.jstor.org/stable/24711585">Greco-Roman Studies in a Digital Age</a> <span class="venue">(Daedalus, 2016)</span></li>
+          <li><a href="https://classical-inquiries.chs.harvard.edu/thoughts-on-classical-studies-in-the-21st-century-united-states/">Thoughts on Classical Studies in the 21st Century United States</a> <span class="venue">(Center for Hellenic Studies, 2021)</span></li>
+          <li><a href="https://continuum.fas.harvard.edu/greco-roman-studies-and-the-future-of-europe/">Greco-Roman Studies and the Future of Europe</a> <span class="venue">(Center for Hellenic Studies, 2022)</span></li>
+          <li><a href="https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.575">Classical Greek in the Open Greek and Latin Project</a> <span class="venue">(Journal of Open Humanities Data, 2026)</span></li>
+          <li>Perseus and the Open-Source Ecosystem of Greco-Roman Studies <span class="venue">(Journal of Open Humanities Data, 2026)</span></li>
+          <li>Philology in the Age of Large Language Models</li>
+          <li>Conclusion: the next fifty years</li>
+        </ol>
+      </details>
+    </div>
+  </section>
 
   <h2>Current projects</h2>
 
