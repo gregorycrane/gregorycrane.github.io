@@ -77,6 +77,55 @@ layout: null
   }
   .gc-home .epigraph .grc { font-family: "GFS Didot", "EB Garamond", serif; font-size: 1.2rem; }
   .gc-home .epigraph .tr { color: var(--muted); font-style: italic; font-size: 1rem; }
+  .gc-home .epigraph .annotation-hint {
+    margin-top: 0.4rem;
+    color: var(--muted);
+    font-size: 0.82rem;
+    line-height: 1.35;
+  }
+  .gc-home .tb-word {
+    display: inline-block;
+    margin: 0 -0.04em;
+    padding: 0 0.04em;
+    border-radius: 3px;
+    border-bottom: 1px dotted color-mix(in srgb, var(--accent) 55%, transparent);
+    cursor: help;
+    transition: color 120ms ease, background-color 120ms ease;
+  }
+  .gc-home .tb-word:hover,
+  .gc-home .tb-word:focus-visible,
+  .gc-home .tb-word[aria-expanded="true"] {
+    color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 10%, transparent);
+    outline: none;
+  }
+  .treebank-tooltip {
+    position: fixed;
+    z-index: 100;
+    width: max-content;
+    max-width: min(21rem, calc(100vw - 2rem));
+    padding: 0.75rem 0.85rem;
+    color: #fffaf4;
+    background: #2b2622;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    border-radius: 5px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.24);
+    font-family: "EB Garamond", Georgia, serif;
+    font-size: 0.95rem;
+    line-height: 1.3;
+    pointer-events: none;
+  }
+  .treebank-tooltip[hidden] { display: none; }
+  .treebank-tooltip .tb-tip-form {
+    display: block;
+    margin-bottom: 0.35rem;
+    color: #fff;
+    font-family: "GFS Didot", "EB Garamond", serif;
+    font-size: 1.15rem;
+    font-weight: 400;
+  }
+  .treebank-tooltip .tb-tip-row { margin-top: 0.18rem; }
+  .treebank-tooltip .tb-tip-label { color: #cfbfb1; }
   .gc-home h2 {
     font-weight: 500;
     font-size: 0.85rem;
@@ -181,8 +230,21 @@ layout: null
   </div>
 
   <blockquote class="epigraph">
-    <div class="grc" lang="grc">μανθάνειν οὐ μόνον τοῖς φιλοσόφοις ἥδιστον ἀλλὰ καὶ τοῖς ἄλλοις ὁμοίως</div>
+    <div class="grc" lang="grc" aria-label="Annotated Greek quotation">
+      <span class="tb-word" tabindex="0" aria-describedby="treebank-tooltip" aria-expanded="false" title="to learn" data-lemma="μανθάνω" data-gloss="to learn" data-pos="verb" data-morph="present active infinitive" data-syntax="clausal subject → φιλοσόφοις">μανθάνειν</span>
+      <span class="tb-word" tabindex="0" aria-describedby="treebank-tooltip" aria-expanded="false" title="not" data-lemma="οὐ" data-gloss="not" data-pos="adverb" data-morph="—" data-syntax="adverbial modifier → μόνον">οὐ</span>
+      <span class="tb-word" tabindex="0" aria-describedby="treebank-tooltip" aria-expanded="false" title="only" data-lemma="μόνον" data-gloss="only" data-pos="adverb" data-morph="—" data-syntax="adverbial modifier → φιλοσόφοις">μόνον</span>
+      <span class="tb-word" tabindex="0" aria-describedby="treebank-tooltip" aria-expanded="false" title="the" data-lemma="ὁ" data-gloss="the" data-pos="definite article" data-morph="dative masculine plural" data-syntax="determiner → φιλοσόφοις">τοῖς</span>
+      <span class="tb-word" tabindex="0" aria-describedby="treebank-tooltip" aria-expanded="false" title="philosophers" data-lemma="φιλόσοφος" data-gloss="philosophers" data-pos="noun" data-morph="dative masculine plural" data-syntax="clausal subject → αἴτιον">φιλοσόφοις</span>
+      <span class="tb-word" tabindex="0" aria-describedby="treebank-tooltip" aria-expanded="false" title="most pleasant" data-lemma="ἡδύς" data-gloss="most pleasant" data-pos="adjective" data-morph="superlative, nominative neuter singular" data-syntax="open complement → φιλοσόφοις">ἥδιστον</span>
+      <span class="tb-word" tabindex="0" aria-describedby="treebank-tooltip" aria-expanded="false" title="but" data-lemma="ἀλλά" data-gloss="but" data-pos="coordinating conjunction" data-morph="—" data-syntax="coordinator → ἄλλοις">ἀλλὰ</span>
+      <span class="tb-word" tabindex="0" aria-describedby="treebank-tooltip" aria-expanded="false" title="also" data-lemma="καί" data-gloss="also" data-pos="adverb" data-morph="—" data-syntax="adverbial modifier → ἄλλοις">καὶ</span>
+      <span class="tb-word" tabindex="0" aria-describedby="treebank-tooltip" aria-expanded="false" title="the" data-lemma="ὁ" data-gloss="the" data-pos="definite article" data-morph="dative masculine plural" data-syntax="determiner → ἄλλοις">τοῖς</span>
+      <span class="tb-word" tabindex="0" aria-describedby="treebank-tooltip" aria-expanded="false" title="others" data-lemma="ἄλλος" data-gloss="others" data-pos="adjective" data-morph="dative masculine plural" data-syntax="conjunct → φιλοσόφοις">ἄλλοις</span>
+      <span class="tb-word" tabindex="0" aria-describedby="treebank-tooltip" aria-expanded="false" title="similarly" data-lemma="ὁμοίως" data-gloss="similarly" data-pos="adverb" data-morph="—" data-syntax="adverbial modifier → ἄλλοις">ὁμοίως</span>
+    </div>
     <div class="tr">Learning is a great pleasure, not only for philosophers but for everyone else as well. — Aristotle, <span lang="la">Poetics</span> 1448b13</div>
+    <div class="annotation-hint">Hover over a Greek word—or focus it with the keyboard—to see its gloss and analysis. Data from the <a href="https://github.com/gregorycrane/grcnewxml/blob/main/data/tlg0086/tlg034/tlg0086.tlg034.kassel.tb.conllu">augmented Kassel treebank</a>, <span lang="la">Poetics</span> 4.4.</div>
   </blockquote>
 
   <p>I work on how people read the languages and sources of the ancient world, and on how
@@ -305,5 +367,86 @@ layout: null
   </footer>
 
 </div>
+<div id="treebank-tooltip" class="treebank-tooltip" role="tooltip" hidden></div>
+<script>
+  (() => {
+    const tooltip = document.getElementById("treebank-tooltip");
+    const words = [...document.querySelectorAll(".tb-word")];
+    let activeWord = null;
+
+    function addRow(label, value) {
+      if (!value || value === "—") return;
+      const row = document.createElement("div");
+      row.className = "tb-tip-row";
+      const key = document.createElement("span");
+      key.className = "tb-tip-label";
+      key.textContent = `${label}: `;
+      row.append(key, document.createTextNode(value));
+      tooltip.append(row);
+    }
+
+    function positionTooltip(word) {
+      const rect = word.getBoundingClientRect();
+      const gap = 8;
+      const margin = 8;
+      const width = tooltip.offsetWidth;
+      const height = tooltip.offsetHeight;
+      let left = rect.left + rect.width / 2 - width / 2;
+      left = Math.max(margin, Math.min(left, window.innerWidth - width - margin));
+      let top = rect.bottom + gap;
+      if (top + height > window.innerHeight - margin) top = rect.top - height - gap;
+      tooltip.style.left = `${Math.round(left)}px`;
+      tooltip.style.top = `${Math.max(margin, Math.round(top))}px`;
+    }
+
+    function showTooltip(word) {
+      if (activeWord && activeWord !== word) activeWord.setAttribute("aria-expanded", "false");
+      activeWord = word;
+      tooltip.replaceChildren();
+      const form = document.createElement("strong");
+      form.className = "tb-tip-form";
+      form.lang = "grc";
+      form.textContent = word.textContent.trim();
+      tooltip.append(form);
+      addRow("Gloss", word.dataset.gloss);
+      addRow("Lemma", word.dataset.lemma);
+      addRow("Part of speech", word.dataset.pos);
+      addRow("Morphology", word.dataset.morph);
+      addRow("Syntax", word.dataset.syntax);
+      word.setAttribute("aria-expanded", "true");
+      tooltip.hidden = false;
+      positionTooltip(word);
+    }
+
+    function hideTooltip(word, force = false) {
+      if (!force && document.activeElement === word) return;
+      if (activeWord === word) {
+        word.setAttribute("aria-expanded", "false");
+        activeWord = null;
+        tooltip.hidden = true;
+      }
+    }
+
+    words.forEach(word => {
+      word.addEventListener("pointerenter", () => showTooltip(word));
+      word.addEventListener("pointerleave", () => hideTooltip(word));
+      word.addEventListener("focus", () => showTooltip(word));
+      word.addEventListener("blur", () => hideTooltip(word, true));
+      word.addEventListener("click", () => {
+        word.focus();
+        showTooltip(word);
+      });
+    });
+
+    window.addEventListener("scroll", () => activeWord && positionTooltip(activeWord), { passive: true });
+    window.addEventListener("resize", () => activeWord && positionTooltip(activeWord));
+    document.addEventListener("keydown", event => {
+      if (event.key === "Escape" && activeWord) {
+        hideTooltip(activeWord, true);
+        activeWord.blur();
+      }
+    });
+  })();
+</script>
 </body>
 </html>
