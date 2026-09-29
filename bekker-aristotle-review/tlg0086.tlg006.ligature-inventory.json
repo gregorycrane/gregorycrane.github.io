@@ -162,14 +162,6 @@
     "classification": "internal_final_sigma_to_sigma_tau"
   },
   {
-    "token": "ὅτ",
-    "classification": "valid_elision",
-    "page": 1,
-    "scope": "main_text",
-    "column": "b",
-    "line": 3
-  },
-  {
     "token": "κατ",
     "classification": "valid_elision",
     "page": 1,
@@ -275,6 +267,24 @@
     "sic": "ὥςε",
     "corr": "ὥστε",
     "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "b",
+    "line": 5,
+    "sic": "ἐσίν",
+    "corr": "ἐστίν",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "b",
+    "line": 24,
+    "sic": "ἐσίν",
+    "corr": "ἐστίν",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
   },
   {
     "token": "μήτ",
@@ -1300,6 +1310,15 @@
     "classification": "internal_final_sigma_to_sigma_tau"
   },
   {
+    "page": 8,
+    "scope": "line",
+    "column": "a",
+    "line": 22,
+    "sic": "πλείσων",
+    "corr": "πλείστων",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
+  },
+  {
     "page": 9,
     "scope": "line",
     "column": "b",
@@ -1466,6 +1485,33 @@
     "sic": "μάλιςα",
     "corr": "μάλιστα",
     "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 10,
+    "scope": "line",
+    "column": "a",
+    "line": 29,
+    "sic": "πλείσων",
+    "corr": "πλείστων",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
+  },
+  {
+    "page": 10,
+    "scope": "line",
+    "column": "b",
+    "line": 3,
+    "sic": "παλαισρικοὶ",
+    "corr": "παλαιστρικοὶ",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
+  },
+  {
+    "page": 10,
+    "scope": "line",
+    "column": "b",
+    "line": 4,
+    "sic": "παλαισρική",
+    "corr": "παλαιστρική",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
   },
   {
     "token": "κατ",
@@ -2199,22 +2245,6 @@
     "sic": "ἐπιςήμην",
     "corr": "ἐπιστήμην",
     "classification": "internal_final_sigma_to_sigma_tau"
-  },
-  {
-    "token": "ὥστ",
-    "classification": "valid_elision",
-    "page": 15,
-    "scope": "main_text",
-    "column": "a",
-    "line": 24
-  },
-  {
-    "token": "ὥστ",
-    "classification": "valid_elision",
-    "page": 15,
-    "scope": "main_text",
-    "column": "a",
-    "line": 32
   },
   {
     "token": "ταῦτ",
