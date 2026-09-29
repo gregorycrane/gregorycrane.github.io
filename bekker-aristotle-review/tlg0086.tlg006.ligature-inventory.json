@@ -1,0 +1,2227 @@
+[
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "a",
+    "line": 21,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "a",
+    "line": 22,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "a",
+    "line": 23,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "a",
+    "line": 25,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "a",
+    "line": 26,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "a",
+    "line": 28,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "b",
+    "line": 1,
+    "sic": "ἐσίν",
+    "corr": "ἐστίν",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "b",
+    "line": 2,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "b",
+    "line": 3,
+    "sic": "ἐσὶν",
+    "corr": "ἐστὶν",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "b",
+    "line": 5,
+    "sic": "ἐσὶν",
+    "corr": "ἐστὶν",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "b",
+    "line": 9,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "b",
+    "line": 15,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "b",
+    "line": 17,
+    "sic": "ἐπιςήμης",
+    "corr": "ἐπιστήμης",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "b",
+    "line": 19,
+    "sic": "ἐπιςήμης",
+    "corr": "ἐπιστήμης",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "b",
+    "line": 20,
+    "sic": "ἐπιςήμη",
+    "corr": "ἐπιστήμη",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "b",
+    "line": 20,
+    "sic": "ἐπιςήμης",
+    "corr": "ἐπιστήμης",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "b",
+    "line": 22,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 1,
+    "scope": "line",
+    "column": "b",
+    "line": 25,
+    "sic": "ἕκαςον",
+    "corr": "ἕκαστον",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "token": "ὅτ",
+    "classification": "valid_elision",
+    "page": 1,
+    "scope": "main_text",
+    "column": "b",
+    "line": 3
+  },
+  {
+    "token": "κατ",
+    "classification": "valid_elision",
+    "page": 1,
+    "scope": "main_text",
+    "column": "b",
+    "line": 7
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "b",
+    "line": 8,
+    "sic": "ἐσίν",
+    "corr": "ἐστίν",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "b",
+    "line": 27,
+    "sic": "ἐσίν",
+    "corr": "ἐστίν",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "a",
+    "line": 3,
+    "sic": "ὥπλιςαι",
+    "corr": "ὥπλισται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "a",
+    "line": 10,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "a",
+    "line": 26,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "a",
+    "line": 26,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "a",
+    "line": 35,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "a",
+    "line": 36,
+    "sic": "ἕκαςα",
+    "corr": "ἕκαστα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "b",
+    "line": 32,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "b",
+    "line": 35,
+    "sic": "ἔςαι",
+    "corr": "ἔσται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 2,
+    "scope": "line",
+    "column": "b",
+    "line": 36,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "token": "μήτ",
+    "classification": "valid_elision",
+    "page": 2,
+    "scope": "main_text",
+    "column": "a",
+    "line": 13
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "a",
+    "line": 12,
+    "sic": "ἔςιν",
+    "corr": "ἔστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "a",
+    "line": 13,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "a",
+    "line": 20,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "a",
+    "line": 22,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "a",
+    "line": 25,
+    "sic": "ἐςὶ",
+    "corr": "ἐστὶ",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "a",
+    "line": 28,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "a",
+    "line": 36,
+    "sic": "ἐςὶ",
+    "corr": "ἐστὶ",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "b",
+    "line": 11,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "b",
+    "line": 16,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "b",
+    "line": 27,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "b",
+    "line": 29,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "b",
+    "line": 32,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "b",
+    "line": 34,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "b",
+    "line": 36,
+    "sic": "ἑκάςη",
+    "corr": "ἑκάστη",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "b",
+    "line": 36,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "b",
+    "line": 37,
+    "sic": "ἔςιν",
+    "corr": "ἔστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 3,
+    "scope": "line",
+    "column": "b",
+    "line": 37,
+    "sic": "ἔςαι",
+    "corr": "ἔσται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "token": "κατ",
+    "classification": "valid_elision",
+    "page": 3,
+    "scope": "main_text",
+    "column": "a",
+    "line": 37
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "a",
+    "line": 1,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "a",
+    "line": 8,
+    "sic": "ἐςὶν",
+    "corr": "ἐστὶν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "a",
+    "line": 8,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "a",
+    "line": 13,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "a",
+    "line": 14,
+    "sic": "ἔςαι",
+    "corr": "ἔσται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "a",
+    "line": 18,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "a",
+    "line": 22,
+    "sic": "ἐνίσαιτο",
+    "corr": "ἐνίσταιτο",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "a",
+    "line": 25,
+    "sic": "ἀναςάντος",
+    "corr": "ἀναστάντος",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "a",
+    "line": 26,
+    "sic": "ἔςαι",
+    "corr": "ἔσται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "a",
+    "line": 27,
+    "sic": "ἀναςάντος",
+    "corr": "ἀναστάντος",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "a",
+    "line": 30,
+    "sic": "ἐςί",
+    "corr": "ἐστί",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "b",
+    "line": 31,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "b",
+    "line": 32,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "b",
+    "line": 33,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "b",
+    "line": 36,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 4,
+    "scope": "line",
+    "column": "b",
+    "line": 37,
+    "sic": "ἑκάςη",
+    "corr": "ἑκάστη",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "a",
+    "line": 1,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "a",
+    "line": 2,
+    "sic": "ςιγμήν",
+    "corr": "στιγμήν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "a",
+    "line": 6,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "a",
+    "line": 9,
+    "sic": "ἐςί",
+    "corr": "ἐστί",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "b",
+    "line": 11,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "b",
+    "line": 12,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "b",
+    "line": 14,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "b",
+    "line": 29,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "b",
+    "line": 29,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "b",
+    "line": 31,
+    "sic": "ἔςιν",
+    "corr": "ἔστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "b",
+    "line": 31,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "b",
+    "line": 33,
+    "sic": "ἔςαι",
+    "corr": "ἔσται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "b",
+    "line": 36,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 5,
+    "scope": "line",
+    "column": "b",
+    "line": 39,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "token": "ἔλατ",
+    "classification": "line_end_hyphenation",
+    "page": 5,
+    "scope": "main_text",
+    "column": "b",
+    "line": 19
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 4,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 5,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 6,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 8,
+    "sic": "ἐςὶν",
+    "corr": "ἐστὶν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 14,
+    "sic": "πλείςην",
+    "corr": "πλείστην",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 15,
+    "sic": "διάςασιν",
+    "corr": "διάστασιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 17,
+    "sic": "πλεῖςον",
+    "corr": "πλεῖστον",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 17,
+    "sic": "διεςηκότα",
+    "corr": "διεστηκότα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 24,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 26,
+    "sic": "μάλιςα",
+    "corr": "μάλιστα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 35,
+    "sic": "λιςα",
+    "corr": "λιστα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 36,
+    "sic": "ἐςὶν",
+    "corr": "ἐστὶν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 38,
+    "sic": "ἐςὶν",
+    "corr": "ἐστὶν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "a",
+    "line": 39,
+    "sic": "ἐςὶν",
+    "corr": "ἐστὶν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "b",
+    "line": 18,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 6,
+    "scope": "line",
+    "column": "b",
+    "line": 28,
+    "sic": "ἀντιςρέφοντα",
+    "corr": "ἀντιστρέφοντα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 7,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 9,
+    "sic": "ἔςαι",
+    "corr": "ἔσται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 10,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 13,
+    "sic": "ἀντιςρέφοντα",
+    "corr": "ἀντιστρέφοντα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 16,
+    "sic": "πλείςων",
+    "corr": "πλείστων",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 16,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 16,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 17,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 18,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 18,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 20,
+    "sic": "ἔςιν",
+    "corr": "ἔστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 21,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 23,
+    "sic": "ἐπιςητὸν",
+    "corr": "ἐπιστητὸν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 24,
+    "sic": "ἐπιςήμης",
+    "corr": "ἐπιστήμης",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 25,
+    "sic": "ἐπιςήμας",
+    "corr": "ἐπιστήμας",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 28,
+    "sic": "ἐπιςήμην",
+    "corr": "ἐπιστήμην",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 28,
+    "sic": "ἐπιςήμη",
+    "corr": "ἐπιστήμη",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 29,
+    "sic": "ἔςιν",
+    "corr": "ἔστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 29,
+    "sic": "ἐπιςήμη",
+    "corr": "ἐπιστήμη",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 30,
+    "sic": "ἔςαι",
+    "corr": "ἔσται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 30,
+    "sic": "ἐπιςήμης",
+    "corr": "ἐπιστήμης",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 31,
+    "sic": "ἐπιςητὸν",
+    "corr": "ἐπιστητὸν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 32,
+    "sic": "ἔςιν",
+    "corr": "ἔστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 32,
+    "sic": "ἔςιν",
+    "corr": "ἔστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 33,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 34,
+    "sic": "ἔςαι",
+    "corr": "ἔσται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 7,
+    "scope": "line",
+    "column": "b",
+    "line": 34,
+    "sic": "ἐπιςήμη",
+    "corr": "ἐπιστήμη",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 3,
+    "sic": "ἕκαςα",
+    "corr": "ἕκαστα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 5,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 7,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 8,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 8,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 10,
+    "sic": "ρίςως",
+    "corr": "ρίστως",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 10,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 12,
+    "sic": "ἐςὶ",
+    "corr": "ἐστὶ",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 13,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 13,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 13,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 17,
+    "sic": "ἐςὶν",
+    "corr": "ἐστὶν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 17,
+    "sic": "ἔςιν",
+    "corr": "ἔστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 19,
+    "sic": "ἔςιν",
+    "corr": "ἔστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 19,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 20,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 21,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 23,
+    "sic": "ἑκάςου",
+    "corr": "ἑκάστου",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 24,
+    "sic": "ἔςιν",
+    "corr": "ἔστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 29,
+    "sic": "ἐπιςῆμαι",
+    "corr": "ἐπιστῆμαι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 8,
+    "scope": "line",
+    "column": "b",
+    "line": 35,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 9,
+    "scope": "line",
+    "column": "b",
+    "line": 5,
+    "sic": "ἑκάςην",
+    "corr": "ἑκάστην",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 9,
+    "scope": "line",
+    "column": "b",
+    "line": 14,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 9,
+    "scope": "line",
+    "column": "b",
+    "line": 16,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 9,
+    "scope": "line",
+    "column": "b",
+    "line": 18,
+    "sic": "σύςασιν",
+    "corr": "σύστασιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 9,
+    "scope": "line",
+    "column": "b",
+    "line": 18,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 9,
+    "scope": "line",
+    "column": "b",
+    "line": 22,
+    "sic": "συςάσει",
+    "corr": "συστάσει",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 9,
+    "scope": "line",
+    "column": "b",
+    "line": 26,
+    "sic": "καθίςανται",
+    "corr": "καθίστανται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 9,
+    "scope": "line",
+    "column": "b",
+    "line": 28,
+    "sic": "ἀποκαθιςαμέ",
+    "corr": "ἀποκαθισταμέ",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 9,
+    "scope": "line",
+    "column": "b",
+    "line": 32,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 9,
+    "scope": "apparatus",
+    "column": "apparatus",
+    "line": null,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "token": "κατ",
+    "classification": "valid_elision",
+    "page": 9,
+    "scope": "main_text",
+    "column": "a",
+    "line": 12
+  },
+  {
+    "token": "κατ",
+    "classification": "valid_elision",
+    "page": 9,
+    "scope": "main_text",
+    "column": "a",
+    "line": 33
+  },
+  {
+    "token": "γένοιτ",
+    "classification": "valid_elision",
+    "page": 9,
+    "scope": "main_text",
+    "column": "b",
+    "line": 18
+  },
+  {
+    "page": 10,
+    "scope": "line",
+    "column": "a",
+    "line": 3,
+    "sic": "ἐκςάσεις",
+    "corr": "ἐκστάσεις",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 10,
+    "scope": "line",
+    "column": "a",
+    "line": 6,
+    "sic": "ἀποκαθιςαμένων",
+    "corr": "ἀποκαθισταμένων",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 10,
+    "scope": "line",
+    "column": "a",
+    "line": 9,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 10,
+    "scope": "line",
+    "column": "a",
+    "line": 12,
+    "sic": "ἕκαςον",
+    "corr": "ἕκαστον",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 10,
+    "scope": "line",
+    "column": "a",
+    "line": 16,
+    "sic": "ἕκαςον",
+    "corr": "ἕκαστον",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 10,
+    "scope": "line",
+    "column": "a",
+    "line": 26,
+    "sic": "μάλιςα",
+    "corr": "μάλιστα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "token": "κατ",
+    "classification": "valid_elision",
+    "page": 10,
+    "scope": "main_text",
+    "column": "b",
+    "line": 6
+  },
+  {
+    "token": "κατ",
+    "classification": "valid_elision",
+    "page": 10,
+    "scope": "main_text",
+    "column": "b",
+    "line": 14
+  },
+  {
+    "token": "κατ",
+    "classification": "valid_elision",
+    "page": 10,
+    "scope": "apparatus",
+    "note": "n1"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "a",
+    "line": 11,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "a",
+    "line": 17,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "a",
+    "line": 18,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "a",
+    "line": 18,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "b",
+    "line": 4,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "b",
+    "line": 6,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "b",
+    "line": 19,
+    "sic": "ἕκαςον",
+    "corr": "ἕκαστον",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "b",
+    "line": 22,
+    "sic": "ςέρησιν",
+    "corr": "στέρησιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "b",
+    "line": 25,
+    "sic": "ἐςὶ",
+    "corr": "ἐστὶ",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "b",
+    "line": 26,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "b",
+    "line": 27,
+    "sic": "ἐπιςήμη",
+    "corr": "ἐπιστήμη",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "b",
+    "line": 29,
+    "sic": "ἐςὶ",
+    "corr": "ἐστὶ",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "b",
+    "line": 32,
+    "sic": "ἐςὶν",
+    "corr": "ἐστὶν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "b",
+    "line": 34,
+    "sic": "ἐςὶν",
+    "corr": "ἐστὶν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "b",
+    "line": 37,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 11,
+    "scope": "line",
+    "column": "b",
+    "line": 38,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "token": "κατ",
+    "classification": "valid_elision",
+    "page": 11,
+    "scope": "main_text",
+    "column": "a",
+    "line": 17
+  },
+  {
+    "token": "κατ",
+    "classification": "valid_elision",
+    "page": 11,
+    "scope": "main_text",
+    "column": "a",
+    "line": 19
+  },
+  {
+    "token": "ἧτ",
+    "classification": "line_end_hyphenation",
+    "page": 11,
+    "scope": "main_text",
+    "column": "b",
+    "line": 5
+  },
+  {
+    "token": "ἀντ",
+    "classification": "apparatus_abbreviation",
+    "page": 11,
+    "scope": "apparatus",
+    "note": "n2"
+  },
+  {
+    "page": 12,
+    "scope": "line",
+    "column": "b",
+    "line": 2,
+    "sic": "ἐςερῆσθαι",
+    "corr": "ἐστερῆσθαι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 12,
+    "scope": "line",
+    "column": "b",
+    "line": 2,
+    "sic": "ςέρησις",
+    "corr": "στέρησις",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 12,
+    "scope": "line",
+    "column": "b",
+    "line": 8,
+    "sic": "ἐςὶ",
+    "corr": "ἐστὶ",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 12,
+    "scope": "line",
+    "column": "b",
+    "line": 9,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 12,
+    "scope": "line",
+    "column": "b",
+    "line": 17,
+    "sic": "ἐςὶ",
+    "corr": "ἐστὶ",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 12,
+    "scope": "line",
+    "column": "b",
+    "line": 18,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 12,
+    "scope": "line",
+    "column": "b",
+    "line": 22,
+    "sic": "ἀντιςρέφοντα",
+    "corr": "ἀντιστρέφοντα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 12,
+    "scope": "line",
+    "column": "b",
+    "line": 22,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 12,
+    "scope": "line",
+    "column": "b",
+    "line": 24,
+    "sic": "ἀντιςρέφει",
+    "corr": "ἀντιστρέφει",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 12,
+    "scope": "line",
+    "column": "b",
+    "line": 28,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 12,
+    "scope": "line",
+    "column": "b",
+    "line": 32,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 12,
+    "scope": "line",
+    "column": "b",
+    "line": 41,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "token": "κατ",
+    "classification": "valid_elision",
+    "page": 12,
+    "scope": "main_text",
+    "column": "a",
+    "line": 14
+  },
+  {
+    "token": "λέγοιτ",
+    "classification": "valid_elision",
+    "page": 12,
+    "scope": "main_text",
+    "column": "b",
+    "line": 20
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "a",
+    "line": 6,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "a",
+    "line": 7,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "a",
+    "line": 13,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "a",
+    "line": 15,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "a",
+    "line": 16,
+    "sic": "ςέρησιν",
+    "corr": "στέρησιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "b",
+    "line": 5,
+    "sic": "ςερήσεως",
+    "corr": "στερήσεως",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "b",
+    "line": 7,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "b",
+    "line": 8,
+    "sic": "ἔςιν",
+    "corr": "ἔστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "b",
+    "line": 11,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "b",
+    "line": 12,
+    "sic": "μάλιςα",
+    "corr": "μάλιστα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "b",
+    "line": 15,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "b",
+    "line": 17,
+    "sic": "ἔςαι",
+    "corr": "ἔσται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "b",
+    "line": 19,
+    "sic": "ἐςὶν",
+    "corr": "ἐστὶν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "b",
+    "line": 20,
+    "sic": "ςερήσεως",
+    "corr": "στερήσεως",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "b",
+    "line": 29,
+    "sic": "ἔςαι",
+    "corr": "ἔσται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "b",
+    "line": 36,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 13,
+    "scope": "line",
+    "column": "b",
+    "line": 37,
+    "sic": "ἕκαςον",
+    "corr": "ἕκαστον",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "token": "κατ",
+    "classification": "valid_elision",
+    "page": 13,
+    "scope": "main_text",
+    "column": "a",
+    "line": 15
+  },
+  {
+    "token": "κατ",
+    "classification": "valid_elision",
+    "page": 13,
+    "scope": "main_text",
+    "column": "b",
+    "line": 1
+  },
+  {
+    "page": 14,
+    "scope": "line",
+    "column": "a",
+    "line": 5,
+    "sic": "πλείσων",
+    "corr": "πλείστων",
+    "classification": "scan_confirmed_missing_tau_after_sigma"
+  },
+  {
+    "page": 14,
+    "scope": "line",
+    "column": "a",
+    "line": 6,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 14,
+    "scope": "line",
+    "column": "b",
+    "line": 1,
+    "sic": "ςοιχεῖα",
+    "corr": "στοιχεῖα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 14,
+    "scope": "line",
+    "column": "b",
+    "line": 3,
+    "sic": "ἐςίν",
+    "corr": "ἐστίν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 14,
+    "scope": "line",
+    "column": "b",
+    "line": 7,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 14,
+    "scope": "line",
+    "column": "b",
+    "line": 11,
+    "sic": "ἀντιςρεφόντων",
+    "corr": "ἀντιστρεφόντων",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 14,
+    "scope": "line",
+    "column": "b",
+    "line": 13,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 14,
+    "scope": "line",
+    "column": "b",
+    "line": 14,
+    "sic": "ἀντιςρέφει",
+    "corr": "ἀντιστρέφει",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 14,
+    "scope": "line",
+    "column": "b",
+    "line": 27,
+    "sic": "ἀντιςρέφει",
+    "corr": "ἀντιστρέφει",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 14,
+    "scope": "line",
+    "column": "b",
+    "line": 29,
+    "sic": "ἀντιςρέφει",
+    "corr": "ἀντιστρέφει",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 14,
+    "scope": "line",
+    "column": "b",
+    "line": 32,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 14,
+    "scope": "line",
+    "column": "b",
+    "line": 39,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "token": "λέγοιτ",
+    "classification": "valid_elision",
+    "page": 14,
+    "scope": "main_text",
+    "column": "b",
+    "line": 13
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "a",
+    "line": 1,
+    "sic": "ἕκαςον",
+    "corr": "ἕκαστον",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "a",
+    "line": 3,
+    "sic": "ἔςαι",
+    "corr": "ἔσται",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "a",
+    "line": 4,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "a",
+    "line": 5,
+    "sic": "ἀντιςρέφει",
+    "corr": "ἀντιστρέφει",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "a",
+    "line": 6,
+    "sic": "ἔςι",
+    "corr": "ἔστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "a",
+    "line": 8,
+    "sic": "ἀντιςρέφει",
+    "corr": "ἀντιστρέφει",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "a",
+    "line": 10,
+    "sic": "ἐςι",
+    "corr": "ἐστι",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "a",
+    "line": 13,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "b",
+    "line": 2,
+    "sic": "ἕκαςα",
+    "corr": "ἕκαστα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "b",
+    "line": 2,
+    "sic": "ἕκαςα",
+    "corr": "ἕκαστα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "b",
+    "line": 4,
+    "sic": "μάλιςα",
+    "corr": "μάλιστα",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "b",
+    "line": 7,
+    "sic": "ἐςιν",
+    "corr": "ἐστιν",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "b",
+    "line": 12,
+    "sic": "ὥςε",
+    "corr": "ὥστε",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "page": 15,
+    "scope": "line",
+    "column": "b",
+    "line": 19,
+    "sic": "ἐπιςήμην",
+    "corr": "ἐπιστήμην",
+    "classification": "internal_final_sigma_to_sigma_tau"
+  },
+  {
+    "token": "ὥστ",
+    "classification": "valid_elision",
+    "page": 15,
+    "scope": "main_text",
+    "column": "a",
+    "line": 24
+  },
+  {
+    "token": "ὥστ",
+    "classification": "valid_elision",
+    "page": 15,
+    "scope": "main_text",
+    "column": "a",
+    "line": 32
+  },
+  {
+    "token": "ταῦτ",
+    "classification": "valid_elision",
+    "page": 15,
+    "scope": "main_text",
+    "column": "b",
+    "line": 26
+  }
+]
