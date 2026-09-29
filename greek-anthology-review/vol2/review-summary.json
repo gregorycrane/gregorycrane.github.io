@@ -1,0 +1,2278 @@
+{
+  "volume": 2,
+  "label": "Loeb Greek Anthology, Volume II",
+  "counts": {
+    "review": 191,
+    "pass": 61
+  },
+  "spreads": [
+    {
+      "page": 2,
+      "status": "review",
+      "label": "Book 7 · epigrams 1–2",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 7,
+      "issues": 8
+    },
+    {
+      "page": 4,
+      "status": "review",
+      "label": "Book 7 · epigrams 2–4",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 7
+    },
+    {
+      "page": 6,
+      "status": "review",
+      "label": "Book 7 · epigrams 5–8",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 8
+    },
+    {
+      "page": 8,
+      "status": "review",
+      "label": "Book 7 · epigrams 8–11",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 9
+    },
+    {
+      "page": 10,
+      "status": "review",
+      "label": "Book 7 · epigrams 12–14",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 2
+    },
+    {
+      "page": 12,
+      "status": "review",
+      "label": "Book 7 · epigrams 15–18",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 3
+    },
+    {
+      "page": 14,
+      "status": "review",
+      "label": "Book 7 · epigrams 19–22",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 16,
+      "status": "pass",
+      "label": "Book 7 · epigrams 23–25",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 18,
+      "status": "review",
+      "label": "Book 7 · epigrams 25–27",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 2
+    },
+    {
+      "page": 20,
+      "status": "review",
+      "label": "Book 7 · epigrams 28–31",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 2
+    },
+    {
+      "page": 22,
+      "status": "review",
+      "label": "Book 7 · epigrams 31–34",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 1
+    },
+    {
+      "page": 24,
+      "status": "review",
+      "label": "Book 7 · epigrams 35–37",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 26,
+      "status": "review",
+      "label": "Book 7 · epigrams 37–41",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 4
+    },
+    {
+      "page": 28,
+      "status": "review",
+      "label": "Book 7 · epigrams 42–44",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 8,
+      "issues": 5
+    },
+    {
+      "page": 30,
+      "status": "review",
+      "label": "Book 7 · epigrams 45–49",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 7
+    },
+    {
+      "page": 32,
+      "status": "pass",
+      "label": "Book 7 · epigrams 50–53",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 0
+    },
+    {
+      "page": 34,
+      "status": "review",
+      "label": "Book 7 · epigrams 54–57",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 5
+    },
+    {
+      "page": 36,
+      "status": "review",
+      "label": "Book 7 · epigrams 57–61",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 3,
+      "issues": 10
+    },
+    {
+      "page": 38,
+      "status": "review",
+      "label": "Book 7 · epigrams 61–65",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 12,
+      "issues": 5
+    },
+    {
+      "page": 40,
+      "status": "review",
+      "label": "Book 7 · epigrams 66–68",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 5
+    },
+    {
+      "page": 42,
+      "status": "review",
+      "label": "Book 7 · epigrams 68–71",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 6
+    },
+    {
+      "page": 44,
+      "status": "review",
+      "label": "Book 7 · epigrams 72–74",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 6
+    },
+    {
+      "page": 46,
+      "status": "review",
+      "label": "Book 7 · epigrams 75–78",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 4,
+      "issues": 6
+    },
+    {
+      "page": 48,
+      "status": "review",
+      "label": "Book 7 · epigrams 78–81",
+      "fragments": 4,
+      "notes": 4,
+      "corrections": 3,
+      "issues": 10
+    },
+    {
+      "page": 50,
+      "status": "review",
+      "label": "Book 7 · epigrams 81–85",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 6
+    },
+    {
+      "page": 52,
+      "status": "review",
+      "label": "Book 7 · epigrams 86–89",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 4
+    },
+    {
+      "page": 54,
+      "status": "review",
+      "label": "Book 7 · epigrams 89–91",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 7,
+      "issues": 5
+    },
+    {
+      "page": 56,
+      "status": "review",
+      "label": "Book 7 · epigrams 90–91",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 8
+    },
+    {
+      "page": 58,
+      "status": "review",
+      "label": "Book 7 · epigrams 96–99",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 3,
+      "issues": 4
+    },
+    {
+      "page": 60,
+      "status": "review",
+      "label": "Book 7 · epigrams 99–102",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 9
+    },
+    {
+      "page": 62,
+      "status": "review",
+      "label": "Book 7 · epigrams 103–106",
+      "fragments": 4,
+      "notes": 4,
+      "corrections": 1,
+      "issues": 3
+    },
+    {
+      "page": 64,
+      "status": "review",
+      "label": "Book 7 · epigrams 107–110",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 5
+    },
+    {
+      "page": 66,
+      "status": "review",
+      "label": "Book 7 · epigrams 111–114",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 7
+    },
+    {
+      "page": 68,
+      "status": "review",
+      "label": "Book 7 · epigrams 115–118",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 7
+    },
+    {
+      "page": 70,
+      "status": "pass",
+      "label": "Book 7 · epigrams 119–122",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 72,
+      "status": "pass",
+      "label": "Book 7 · epigrams 123–126",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 74,
+      "status": "pass",
+      "label": "Book 7 · epigrams 127–130",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 76,
+      "status": "review",
+      "label": "Book 7 · epigrams 131–135",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 3
+    },
+    {
+      "page": 78,
+      "status": "review",
+      "label": "Book 7 · epigrams 136–139",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 5
+    },
+    {
+      "page": 80,
+      "status": "review",
+      "label": "Book 7 · epigrams 140–143",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 2
+    },
+    {
+      "page": 82,
+      "status": "review",
+      "label": "Book 7 · epigrams 144–147",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 1
+    },
+    {
+      "page": 84,
+      "status": "pass",
+      "label": "Book 7 · epigrams 148–151",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 0
+    },
+    {
+      "page": 86,
+      "status": "review",
+      "label": "Book 7 · epigrams 152–154",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 2
+    },
+    {
+      "page": 88,
+      "status": "review",
+      "label": "Book 7 · epigrams 155–158",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 4
+    },
+    {
+      "page": 90,
+      "status": "review",
+      "label": "Book 7 · epigrams 158–162",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 4
+    },
+    {
+      "page": 92,
+      "status": "pass",
+      "label": "Book 7 · epigrams 163–164",
+      "fragments": 2,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 94,
+      "status": "review",
+      "label": "Book 7 · epigrams 165–167",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 2
+    },
+    {
+      "page": 96,
+      "status": "pass",
+      "label": "Book 7 · epigrams 168–170",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 98,
+      "status": "review",
+      "label": "Book 7 · epigrams 171–174",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 5
+    },
+    {
+      "page": 100,
+      "status": "review",
+      "label": "Book 7 · epigrams 175–178",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 6
+    },
+    {
+      "page": 102,
+      "status": "review",
+      "label": "Book 7 · epigrams 179–182",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 4
+    },
+    {
+      "page": 104,
+      "status": "pass",
+      "label": "Book 7 · epigrams 183–185",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 106,
+      "status": "review",
+      "label": "Book 7 · epigrams 186–189",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 8
+    },
+    {
+      "page": 108,
+      "status": "pass",
+      "label": "Book 7 · epigrams 190–193",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 110,
+      "status": "review",
+      "label": "Book 7 · epigrams 194–196",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 8
+    },
+    {
+      "page": 112,
+      "status": "review",
+      "label": "Book 7 · epigrams 197–200",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 9
+    },
+    {
+      "page": 114,
+      "status": "pass",
+      "label": "Book 7 · epigrams 201–204",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 116,
+      "status": "review",
+      "label": "Book 7 · epigrams 205–207",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 7,
+      "issues": 3
+    },
+    {
+      "page": 118,
+      "status": "review",
+      "label": "Book 7 · epigrams 208–211",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 5,
+      "issues": 2
+    },
+    {
+      "page": 120,
+      "status": "review",
+      "label": "Book 7 · epigrams 212–214",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 3,
+      "issues": 6
+    },
+    {
+      "page": 122,
+      "status": "review",
+      "label": "Book 7 · epigrams 215–218",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 1
+    },
+    {
+      "page": 124,
+      "status": "review",
+      "label": "Book 7 · epigrams 218–220",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 1
+    },
+    {
+      "page": 126,
+      "status": "pass",
+      "label": "Book 7 · epigrams 221–223",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 128,
+      "status": "pass",
+      "label": "Book 7 · epigrams 224–228",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 130,
+      "status": "review",
+      "label": "Book 7 · epigrams 229–232",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 3
+    },
+    {
+      "page": 132,
+      "status": "review",
+      "label": "Book 7 · epigrams 233–236",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 6
+    },
+    {
+      "page": 134,
+      "status": "review",
+      "label": "Book 7 · epigrams 237–241",
+      "fragments": 6,
+      "notes": 4,
+      "corrections": 0,
+      "issues": 7
+    },
+    {
+      "page": 136,
+      "status": "review",
+      "label": "Book 7 · epigrams 242–244",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 10
+    },
+    {
+      "page": 138,
+      "status": "review",
+      "label": "Book 7 · epigrams 245–249",
+      "fragments": 6,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 2
+    },
+    {
+      "page": 140,
+      "status": "review",
+      "label": "Book 7 · epigrams 245–249",
+      "fragments": 6,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 7
+    },
+    {
+      "page": 142,
+      "status": "review",
+      "label": "Book 7 · epigrams 254b–258",
+      "fragments": 6,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 7
+    },
+    {
+      "page": 144,
+      "status": "pass",
+      "label": "Book 7 · epigrams 259–263",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 146,
+      "status": "review",
+      "label": "Book 7 · epigrams 264–268",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 4
+    },
+    {
+      "page": 148,
+      "status": "review",
+      "label": "Book 7 · epigrams 269–273",
+      "fragments": 6,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 150,
+      "status": "pass",
+      "label": "Book 7 · epigrams 273–276",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 152,
+      "status": "review",
+      "label": "Book 7 · epigrams 277–280",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 1
+    },
+    {
+      "page": 154,
+      "status": "pass",
+      "label": "Book 7 · epigrams 281–285",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 156,
+      "status": "pass",
+      "label": "Book 7 · epigrams 286–289",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 0
+    },
+    {
+      "page": 158,
+      "status": "review",
+      "label": "Book 7 · epigrams 290–293",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 1
+    },
+    {
+      "page": 160,
+      "status": "review",
+      "label": "Book 7 · epigrams 294–296",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 8
+    },
+    {
+      "page": 162,
+      "status": "review",
+      "label": "Book 7 · epigrams 297–300",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 1
+    },
+    {
+      "page": 164,
+      "status": "review",
+      "label": "Book 7 · epigrams 301–304",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 4
+    },
+    {
+      "page": 166,
+      "status": "pass",
+      "label": "Book 7 · epigrams 305–308",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 168,
+      "status": "pass",
+      "label": "Book 7 · epigrams 309–313",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 170,
+      "status": "review",
+      "label": "Book 7 · epigrams 314–317",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 11,
+      "issues": 3
+    },
+    {
+      "page": 172,
+      "status": "review",
+      "label": "Book 7 · epigrams 318–322",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 2
+    },
+    {
+      "page": 174,
+      "status": "review",
+      "label": "Book 7 · epigrams 323–327",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 2
+    },
+    {
+      "page": 176,
+      "status": "pass",
+      "label": "Book 7 · epigrams 328–331",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 178,
+      "status": "pass",
+      "label": "Book 7 · epigrams 332–334",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 180,
+      "status": "review",
+      "label": "Book 7 · epigrams 334–337",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 182,
+      "status": "review",
+      "label": "Book 7 · epigrams 337–340",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 2
+    },
+    {
+      "page": 184,
+      "status": "review",
+      "label": "Book 7 · epigrams 341–344b",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 4,
+      "issues": 1
+    },
+    {
+      "page": 186,
+      "status": "pass",
+      "label": "Book 7 · epigrams 345–348",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 188,
+      "status": "review",
+      "label": "Book 7 · epigrams 349–352",
+      "fragments": 4,
+      "notes": 4,
+      "corrections": 5,
+      "issues": 6
+    },
+    {
+      "page": 190,
+      "status": "review",
+      "label": "Book 7 · epigrams 353–356",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 8
+    },
+    {
+      "page": 192,
+      "status": "review",
+      "label": "Book 7 · epigrams 357–362",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 7
+    },
+    {
+      "page": 194,
+      "status": "review",
+      "label": "Book 7 · epigrams 363–365",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 6,
+      "issues": 7
+    },
+    {
+      "page": 196,
+      "status": "pass",
+      "label": "Book 7 · epigrams 366–369",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 198,
+      "status": "review",
+      "label": "Book 7 · epigrams 370–373",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 4
+    },
+    {
+      "page": 200,
+      "status": "review",
+      "label": "Book 7 · epigrams 374–377",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 202,
+      "status": "review",
+      "label": "Book 7 · epigrams 377–380",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 4,
+      "issues": 6
+    },
+    {
+      "page": 204,
+      "status": "review",
+      "label": "Book 7 · epigrams 380–383",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 5
+    },
+    {
+      "page": 206,
+      "status": "review",
+      "label": "Book 7 · epigrams 384–387",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 7,
+      "issues": 10
+    },
+    {
+      "page": 208,
+      "status": "review",
+      "label": "Book 7 · epigrams 388–390",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 210,
+      "status": "review",
+      "label": "Book 7 · epigrams 391–394",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 1,
+      "issues": 10
+    },
+    {
+      "page": 212,
+      "status": "review",
+      "label": "Book 7 · epigrams 394–397",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 214,
+      "status": "review",
+      "label": "Book 7 · epigrams 398–401",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 3
+    },
+    {
+      "page": 216,
+      "status": "review",
+      "label": "Book 7 · epigrams 401–404",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 3
+    },
+    {
+      "page": 218,
+      "status": "review",
+      "label": "Book 7 · epigrams 405–407",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 5,
+      "issues": 7
+    },
+    {
+      "page": 220,
+      "status": "review",
+      "label": "Book 7 · epigrams 408–410",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 1
+    },
+    {
+      "page": 222,
+      "status": "pass",
+      "label": "Book 7 · epigrams 411–413",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 224,
+      "status": "review",
+      "label": "Book 7 · epigrams 414–417",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 3
+    },
+    {
+      "page": 226,
+      "status": "pass",
+      "label": "Book 7 · epigrams 418–420",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 228,
+      "status": "review",
+      "label": "Book 7 · epigrams 421–423",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 3,
+      "issues": 4
+    },
+    {
+      "page": 230,
+      "status": "review",
+      "label": "Book 7 · epigrams 423–425",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 9
+    },
+    {
+      "page": 232,
+      "status": "review",
+      "label": "Book 7 · epigrams 426–428",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 6
+    },
+    {
+      "page": 234,
+      "status": "pass",
+      "label": "Book 7 · epigrams 429",
+      "fragments": 1,
+      "notes": 2,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 236,
+      "status": "review",
+      "label": "Book 7 · epigrams 430–432",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 4
+    },
+    {
+      "page": 238,
+      "status": "pass",
+      "label": "Book 7 · epigrams 433–436",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 240,
+      "status": "review",
+      "label": "Book 7 · epigrams 437–440",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 2
+    },
+    {
+      "page": 242,
+      "status": "review",
+      "label": "Book 7 · epigrams 441–445",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 3
+    },
+    {
+      "page": 244,
+      "status": "review",
+      "label": "Book 7 · epigrams 446–450",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 246,
+      "status": "review",
+      "label": "Book 7 · epigrams 450–455",
+      "fragments": 6,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 5
+    },
+    {
+      "page": 248,
+      "status": "review",
+      "label": "Book 7 · epigrams 456–459",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 4
+    },
+    {
+      "page": 250,
+      "status": "pass",
+      "label": "Book 7 · epigrams 460–464",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 252,
+      "status": "review",
+      "label": "Book 7 · epigrams 465–467",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 2
+    },
+    {
+      "page": 254,
+      "status": "review",
+      "label": "Book 7 · epigrams 468–470",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 10,
+      "issues": 5
+    },
+    {
+      "page": 256,
+      "status": "review",
+      "label": "Book 7 · epigrams 470–472",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 4,
+      "issues": 3
+    },
+    {
+      "page": 258,
+      "status": "pass",
+      "label": "Book 7 · epigrams 472b–476",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 260,
+      "status": "review",
+      "label": "Book 7 · epigrams 477–479",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 5
+    },
+    {
+      "page": 262,
+      "status": "review",
+      "label": "Book 7 · epigrams 480–483",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 11,
+      "issues": 1
+    },
+    {
+      "page": 264,
+      "status": "review",
+      "label": "Book 7 · epigrams 484–488",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 9
+    },
+    {
+      "page": 266,
+      "status": "review",
+      "label": "Book 7 · epigrams 489–492",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 1
+    },
+    {
+      "page": 268,
+      "status": "review",
+      "label": "Book 7 · epigrams 493–496",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 12,
+      "issues": 5
+    },
+    {
+      "page": 270,
+      "status": "review",
+      "label": "Book 7 · epigrams 497–499",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 272,
+      "status": "review",
+      "label": "Book 7 · epigrams 500–504",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 5
+    },
+    {
+      "page": 274,
+      "status": "review",
+      "label": "Book 7 · epigrams 504–506",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 1
+    },
+    {
+      "page": 276,
+      "status": "review",
+      "label": "Book 7 · epigrams 505–506",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 9
+    },
+    {
+      "page": 278,
+      "status": "review",
+      "label": "Book 7 · epigrams 512–516",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 1
+    },
+    {
+      "page": 280,
+      "status": "pass",
+      "label": "Book 7 · epigrams 517–521",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 0
+    },
+    {
+      "page": 282,
+      "status": "pass",
+      "label": "Book 7 · epigrams 522–525",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 284,
+      "status": "pass",
+      "label": "Book 7 · epigrams 526–530",
+      "fragments": 6,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 286,
+      "status": "review",
+      "label": "Book 7 · epigrams 531–534",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 12,
+      "issues": 5
+    },
+    {
+      "page": 288,
+      "status": "review",
+      "label": "Book 7 · epigrams 535–538",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 3
+    },
+    {
+      "page": 290,
+      "status": "review",
+      "label": "Book 7 · epigrams 539–542",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 6
+    },
+    {
+      "page": 292,
+      "status": "review",
+      "label": "Book 7 · epigrams 542–545",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 7
+    },
+    {
+      "page": 294,
+      "status": "review",
+      "label": "Book 7 · epigrams 546–549",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 9
+    },
+    {
+      "page": 296,
+      "status": "pass",
+      "label": "Book 7 · epigrams 550–552",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 298,
+      "status": "review",
+      "label": "Book 7 · epigrams 553–557",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 12,
+      "issues": 1
+    },
+    {
+      "page": 300,
+      "status": "review",
+      "label": "Book 7 · epigrams 558–561",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 5,
+      "issues": 3
+    },
+    {
+      "page": 302,
+      "status": "review",
+      "label": "Book 7 · epigrams 562–564",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 1,
+      "issues": 7
+    },
+    {
+      "page": 304,
+      "status": "review",
+      "label": "Book 7 · epigrams 565–568",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 4
+    },
+    {
+      "page": 306,
+      "status": "pass",
+      "label": "Book 7 · epigrams 569–572",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 308,
+      "status": "pass",
+      "label": "Book 7 · epigrams 573–576",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 310,
+      "status": "review",
+      "label": "Book 7 · epigrams 577–581",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 1
+    },
+    {
+      "page": 312,
+      "status": "review",
+      "label": "Book 7 · epigrams 582–585",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 6
+    },
+    {
+      "page": 314,
+      "status": "review",
+      "label": "Book 7 · epigrams 585–589",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 5
+    },
+    {
+      "page": 316,
+      "status": "review",
+      "label": "Book 7 · epigrams 589–592",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 318,
+      "status": "review",
+      "label": "Book 7 · epigrams 593–596",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 2
+    },
+    {
+      "page": 320,
+      "status": "review",
+      "label": "Book 7 · epigrams 597–600",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 3
+    },
+    {
+      "page": 322,
+      "status": "pass",
+      "label": "Book 7 · epigrams 601–603",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 324,
+      "status": "review",
+      "label": "Book 7 · epigrams 604–607",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 3
+    },
+    {
+      "page": 326,
+      "status": "pass",
+      "label": "Book 7 · epigrams 608–611",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 328,
+      "status": "review",
+      "label": "Book 7 · epigrams 612–614",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 1
+    },
+    {
+      "page": 330,
+      "status": "review",
+      "label": "Book 7 · epigrams 614–619",
+      "fragments": 6,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 3
+    },
+    {
+      "page": 332,
+      "status": "review",
+      "label": "Book 7 · epigrams 620–623",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 1
+    },
+    {
+      "page": 334,
+      "status": "review",
+      "label": "Book 7 · epigrams 624–626",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 5
+    },
+    {
+      "page": 336,
+      "status": "pass",
+      "label": "Book 7 · epigrams 627–630",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 338,
+      "status": "review",
+      "label": "Book 7 · epigrams 631–634",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 2
+    },
+    {
+      "page": 340,
+      "status": "review",
+      "label": "Book 7 · epigrams 635–638",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 13,
+      "issues": 2
+    },
+    {
+      "page": 342,
+      "status": "review",
+      "label": "Book 7 · epigrams 639–642",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 4,
+      "issues": 1
+    },
+    {
+      "page": 344,
+      "status": "review",
+      "label": "Book 7 · epigrams 643–646",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 7,
+      "issues": 1
+    },
+    {
+      "page": 346,
+      "status": "pass",
+      "label": "Book 7 · epigrams 647–650",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 13,
+      "issues": 0
+    },
+    {
+      "page": 348,
+      "status": "review",
+      "label": "Book 7 · epigrams 651–654",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 12,
+      "issues": 4
+    },
+    {
+      "page": 350,
+      "status": "review",
+      "label": "Book 7 · epigrams 655–658",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 2
+    },
+    {
+      "page": 352,
+      "status": "pass",
+      "label": "Book 7 · epigrams 659–662",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 0
+    },
+    {
+      "page": 354,
+      "status": "review",
+      "label": "Book 7 · epigrams 663–666",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 3
+    },
+    {
+      "page": 356,
+      "status": "review",
+      "label": "Book 7 · epigrams 667–671",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 2
+    },
+    {
+      "page": 358,
+      "status": "review",
+      "label": "Book 7 · epigrams 672–676",
+      "fragments": 5,
+      "notes": 4,
+      "corrections": 1,
+      "issues": 8
+    },
+    {
+      "page": 360,
+      "status": "review",
+      "label": "Book 7 · epigrams 677–679",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 4
+    },
+    {
+      "page": 362,
+      "status": "review",
+      "label": "Book 7 · epigrams 680–683",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 5
+    },
+    {
+      "page": 364,
+      "status": "review",
+      "label": "Book 7 · epigrams 684–688",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 3
+    },
+    {
+      "page": 366,
+      "status": "review",
+      "label": "Book 7 · epigrams 689–693",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 2
+    },
+    {
+      "page": 368,
+      "status": "review",
+      "label": "Book 7 · epigrams 694–697",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 7
+    },
+    {
+      "page": 370,
+      "status": "review",
+      "label": "Book 7 · epigrams 698–700",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 8
+    },
+    {
+      "page": 372,
+      "status": "review",
+      "label": "Book 7 · epigrams 700–703",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 3,
+      "issues": 5
+    },
+    {
+      "page": 374,
+      "status": "review",
+      "label": "Book 7 · epigrams 704–707",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 5
+    },
+    {
+      "page": 376,
+      "status": "review",
+      "label": "Book 7 · epigrams 708–710",
+      "fragments": 4,
+      "notes": 4,
+      "corrections": 2,
+      "issues": 10
+    },
+    {
+      "page": 378,
+      "status": "review",
+      "label": "Book 7 · epigrams 710–713",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 10
+    },
+    {
+      "page": 380,
+      "status": "review",
+      "label": "Book 7 · epigrams 714–716",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 3
+    },
+    {
+      "page": 382,
+      "status": "review",
+      "label": "Book 7 · epigrams 717–721",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 3,
+      "issues": 6
+    },
+    {
+      "page": 384,
+      "status": "review",
+      "label": "Book 7 · epigrams 722–726",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 3,
+      "issues": 5
+    },
+    {
+      "page": 386,
+      "status": "review",
+      "label": "Book 7 · epigrams 726–729",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 7
+    },
+    {
+      "page": 388,
+      "status": "review",
+      "label": "Book 7 · epigrams 730–733",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 13,
+      "issues": 5
+    },
+    {
+      "page": 390,
+      "status": "review",
+      "label": "Book 7 · epigrams 733–737",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 7
+    },
+    {
+      "page": 392,
+      "status": "review",
+      "label": "Book 7 · epigrams 738–741",
+      "fragments": 4,
+      "notes": 4,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 394,
+      "status": "review",
+      "label": "Book 7 · epigrams 742–745",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 12,
+      "issues": 6
+    },
+    {
+      "page": 396,
+      "status": "review",
+      "label": "Book 7 · epigrams 745–748",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 3,
+      "issues": 8
+    },
+    {
+      "page": 398,
+      "status": "review",
+      "label": "Book 7 · epigrams 746–748",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 5
+    },
+    {
+      "page": 400,
+      "status": "review",
+      "label": "Book 8 · epigrams 1–3",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 1,
+      "issues": 5
+    },
+    {
+      "page": 402,
+      "status": "pass",
+      "label": "Book 8 · epigrams 4–7",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 404,
+      "status": "review",
+      "label": "Book 8 · epigrams 8–11",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 1
+    },
+    {
+      "page": 406,
+      "status": "review",
+      "label": "Book 8 · epigrams 12–15",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 4,
+      "issues": 5
+    },
+    {
+      "page": 408,
+      "status": "pass",
+      "label": "Book 8 · epigrams 16–20",
+      "fragments": 5,
+      "notes": 4,
+      "corrections": 3,
+      "issues": 0
+    },
+    {
+      "page": 410,
+      "status": "review",
+      "label": "Book 8 · epigrams 21–25",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 2
+    },
+    {
+      "page": 412,
+      "status": "pass",
+      "label": "Book 8 · epigrams 26–28",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 414,
+      "status": "review",
+      "label": "Book 8 · epigrams 29–32",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 8
+    },
+    {
+      "page": 416,
+      "status": "review",
+      "label": "Book 8 · epigrams 33–36",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 5
+    },
+    {
+      "page": 418,
+      "status": "pass",
+      "label": "Book 8 · epigrams 37–41",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 420,
+      "status": "review",
+      "label": "Book 8 · epigrams 42–46",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 4
+    },
+    {
+      "page": 422,
+      "status": "pass",
+      "label": "Book 8 · epigrams 47–51",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 424,
+      "status": "pass",
+      "label": "Book 8 · epigrams 52–55",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 426,
+      "status": "pass",
+      "label": "Book 8 · epigrams 56–61",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 428,
+      "status": "review",
+      "label": "Book 8 · epigrams 62–67b",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 2
+    },
+    {
+      "page": 430,
+      "status": "pass",
+      "label": "Book 8 · epigrams 68–74",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 432,
+      "status": "review",
+      "label": "Book 8 · epigrams 68–74",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 11
+    },
+    {
+      "page": 434,
+      "status": "review",
+      "label": "Book 8 · epigrams 79–82",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 11,
+      "issues": 1
+    },
+    {
+      "page": 436,
+      "status": "pass",
+      "label": "Book 8 · epigrams 83–86",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 0
+    },
+    {
+      "page": 438,
+      "status": "review",
+      "label": "Book 8 · epigrams 87–90",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 5
+    },
+    {
+      "page": 440,
+      "status": "review",
+      "label": "Book 8 · epigrams 91–95",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 2
+    },
+    {
+      "page": 442,
+      "status": "review",
+      "label": "Book 8 · epigrams 96–99",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 2
+    },
+    {
+      "page": 444,
+      "status": "pass",
+      "label": "Book 8 · epigrams 100–104",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 446,
+      "status": "review",
+      "label": "Book 8 · epigrams 105–107",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 3
+    },
+    {
+      "page": 448,
+      "status": "pass",
+      "label": "Book 8 · epigrams 108–112",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 450,
+      "status": "review",
+      "label": "Book 8 · epigrams 113–117",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 5
+    },
+    {
+      "page": 452,
+      "status": "pass",
+      "label": "Book 8 · epigrams 118–121",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 454,
+      "status": "review",
+      "label": "Book 8 · epigrams 122–126",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 13
+    },
+    {
+      "page": 456,
+      "status": "review",
+      "label": "Book 8 · epigrams 127–131",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 1
+    },
+    {
+      "page": 458,
+      "status": "review",
+      "label": "Book 8 · epigrams 132–135",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 3
+    },
+    {
+      "page": 460,
+      "status": "review",
+      "label": "Book 8 · epigrams 136–140",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 2
+    },
+    {
+      "page": 462,
+      "status": "pass",
+      "label": "Book 8 · epigrams 141–145",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 464,
+      "status": "review",
+      "label": "Book 8 · epigrams 146–150",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 5
+    },
+    {
+      "page": 466,
+      "status": "pass",
+      "label": "Book 8 · epigrams 151–155",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 468,
+      "status": "review",
+      "label": "Book 8 · epigrams 156–160",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 4
+    },
+    {
+      "page": 470,
+      "status": "review",
+      "label": "Book 8 · epigrams 161–164",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 2
+    },
+    {
+      "page": 472,
+      "status": "pass",
+      "label": "Book 8 · epigrams 165–168",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 474,
+      "status": "pass",
+      "label": "Book 8 · epigrams 169–172",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 476,
+      "status": "review",
+      "label": "Book 8 · epigrams 173–176",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 2
+    },
+    {
+      "page": 478,
+      "status": "review",
+      "label": "Book 8 · epigrams 177–181",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 7
+    },
+    {
+      "page": 480,
+      "status": "review",
+      "label": "Book 8 · epigrams 182–186",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 1
+    },
+    {
+      "page": 482,
+      "status": "pass",
+      "label": "Book 8 · epigrams 187–191",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 484,
+      "status": "review",
+      "label": "Book 8 · epigrams 192–196",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 1
+    },
+    {
+      "page": 486,
+      "status": "review",
+      "label": "Book 8 · epigrams 197–202",
+      "fragments": 6,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 1
+    },
+    {
+      "page": 488,
+      "status": "review",
+      "label": "Book 8 · epigrams 203–207",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 4
+    },
+    {
+      "page": 490,
+      "status": "pass",
+      "label": "Book 8 · epigrams 208–212",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 492,
+      "status": "review",
+      "label": "Book 8 · epigrams 213–217",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 5
+    },
+    {
+      "page": 494,
+      "status": "review",
+      "label": "Book 8 · epigrams 218–222",
+      "fragments": 5,
+      "notes": 3,
+      "corrections": 2,
+      "issues": 7
+    },
+    {
+      "page": 496,
+      "status": "review",
+      "label": "Book 8 · epigrams 223–229",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 2
+    },
+    {
+      "page": 498,
+      "status": "pass",
+      "label": "Book 8 · epigrams 230–235",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 500,
+      "status": "pass",
+      "label": "Book 8 · epigrams 236–242",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 502,
+      "status": "review",
+      "label": "Book 8 · epigrams 243–249",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 2
+    },
+    {
+      "page": 504,
+      "status": "pass",
+      "label": "Book 8 · epigrams 250–254",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    }
+  ]
+}

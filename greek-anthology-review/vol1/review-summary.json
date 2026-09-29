@@ -1,0 +1,2206 @@
+{
+  "volume": 1,
+  "label": "Loeb Greek Anthology, Volume I",
+  "counts": {
+    "review": 41,
+    "pass": 203
+  },
+  "spreads": [
+    {
+      "page": 2,
+      "status": "review",
+      "label": "Book 1 · epigrams 1–3",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 1
+    },
+    {
+      "page": 4,
+      "status": "pass",
+      "label": "Book 1 · epigrams 4–8",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 0
+    },
+    {
+      "page": 6,
+      "status": "pass",
+      "label": "Book 1 · epigrams 8–10",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 8,
+      "status": "pass",
+      "label": "Book 1 · epigrams 10–10",
+      "fragments": 2,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 10,
+      "status": "pass",
+      "label": "Book 1 · epigrams 10",
+      "fragments": 1,
+      "notes": 1,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 12,
+      "status": "pass",
+      "label": "Book 1 · epigrams 11–15",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 14,
+      "issues": 0
+    },
+    {
+      "page": 14,
+      "status": "pass",
+      "label": "Book 1 · epigrams 16–19",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 16,
+      "status": "pass",
+      "label": "Book 1 · epigrams 20–24",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 12,
+      "issues": 0
+    },
+    {
+      "page": 18,
+      "status": "pass",
+      "label": "Book 1 · epigrams 25–29",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 14,
+      "issues": 0
+    },
+    {
+      "page": 20,
+      "status": "pass",
+      "label": "Book 1 · epigrams 30–34",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 15,
+      "issues": 0
+    },
+    {
+      "page": 22,
+      "status": "pass",
+      "label": "Book 1 · epigrams 34–37",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 24,
+      "status": "pass",
+      "label": "Book 1 · epigrams 38–44",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 14,
+      "issues": 0
+    },
+    {
+      "page": 26,
+      "status": "pass",
+      "label": "Book 1 · epigrams 45–51",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 15,
+      "issues": 0
+    },
+    {
+      "page": 28,
+      "status": "review",
+      "label": "Book 1 · epigrams 52–58",
+      "fragments": 7,
+      "notes": 2,
+      "corrections": 18,
+      "issues": 0
+    },
+    {
+      "page": 30,
+      "status": "pass",
+      "label": "Book 1 · epigrams 59–65",
+      "fragments": 7,
+      "notes": 4,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 32,
+      "status": "pass",
+      "label": "Book 1 · epigrams 66–72",
+      "fragments": 7,
+      "notes": 1,
+      "corrections": 15,
+      "issues": 0
+    },
+    {
+      "page": 34,
+      "status": "pass",
+      "label": "Book 1 · epigrams 73–79",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 16,
+      "issues": 0
+    },
+    {
+      "page": 36,
+      "status": "pass",
+      "label": "Book 1 · epigrams 80–86",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 17,
+      "issues": 0
+    },
+    {
+      "page": 38,
+      "status": "pass",
+      "label": "Book 1 · epigrams 87–92",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 40,
+      "status": "pass",
+      "label": "Book 1 · epigrams 92–97",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 14,
+      "issues": 0
+    },
+    {
+      "page": 42,
+      "status": "pass",
+      "label": "Book 1 · epigrams 98–101",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 44,
+      "status": "pass",
+      "label": "Book 1 · epigrams 102–106",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 13,
+      "issues": 0
+    },
+    {
+      "page": 46,
+      "status": "pass",
+      "label": "Book 1 · epigrams 106–108",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 48,
+      "status": "pass",
+      "label": "Book 1 · epigrams 109–115",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 13,
+      "issues": 0
+    },
+    {
+      "page": 50,
+      "status": "pass",
+      "label": "Book 1 · epigrams 116–119",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 52,
+      "status": "pass",
+      "label": "Book 1 · epigrams 119–120",
+      "fragments": 2,
+      "notes": 0,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 54,
+      "status": "pass",
+      "label": "Book 1 · epigrams 121–123",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 14,
+      "issues": 0
+    },
+    {
+      "page": 56,
+      "status": "pass",
+      "label": "Book 2 — introductory matter",
+      "fragments": 1,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 58,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 2,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 60,
+      "status": "review",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 62,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 64,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 66,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 68,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 70,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 12,
+      "issues": 0
+    },
+    {
+      "page": 72,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 74,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 76,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 78,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 80,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 14,
+      "issues": 0
+    },
+    {
+      "page": 82,
+      "status": "review",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 10,
+      "issues": 1
+    },
+    {
+      "page": 84,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 2,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 86,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 88,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 90,
+      "status": "pass",
+      "label": "Book 2 · epigrams 1–1",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 92,
+      "status": "pass",
+      "label": "Book 3 — introductory matter",
+      "fragments": 1,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 94,
+      "status": "pass",
+      "label": "Book 3 · epigrams 1–3",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 96,
+      "status": "pass",
+      "label": "Book 3 · epigrams 3–6",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 98,
+      "status": "pass",
+      "label": "Book 3 · epigrams 6–9",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 100,
+      "status": "pass",
+      "label": "Book 3 · epigrams 9–12",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 102,
+      "status": "review",
+      "label": "Book 3 · epigrams 13–15",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 104,
+      "status": "pass",
+      "label": "Book 3 · epigrams 16–18",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 106,
+      "status": "pass",
+      "label": "Book 3 · epigrams 19",
+      "fragments": 1,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 108,
+      "status": "pass",
+      "label": "Book 4 — introductory matter",
+      "fragments": 1,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 110,
+      "status": "pass",
+      "label": "Book 4 · epigrams 1",
+      "fragments": 2,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 112,
+      "status": "review",
+      "label": "Book 4 · epigrams 1",
+      "fragments": 1,
+      "notes": 3,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 114,
+      "status": "pass",
+      "label": "Book 4 · epigrams 1–2",
+      "fragments": 2,
+      "notes": 1,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 116,
+      "status": "pass",
+      "label": "Book 4 · epigrams 3",
+      "fragments": 1,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 118,
+      "status": "pass",
+      "label": "Book 4 · epigrams 3–3",
+      "fragments": 2,
+      "notes": 1,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 120,
+      "status": "pass",
+      "label": "Book 4 · epigrams 3",
+      "fragments": 1,
+      "notes": 2,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 122,
+      "status": "review",
+      "label": "Book 4 · epigrams 3",
+      "fragments": 1,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 124,
+      "status": "pass",
+      "label": "Book 4 · epigrams 3–4",
+      "fragments": 2,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 126,
+      "status": "pass",
+      "label": "Book 5 — introductory matter",
+      "fragments": 1,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 128,
+      "status": "pass",
+      "label": "Book 5 · epigrams 1–3",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 130,
+      "status": "pass",
+      "label": "Book 5 · epigrams 4–7",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 132,
+      "status": "review",
+      "label": "Book 5 · epigrams 7–11",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 15,
+      "issues": 1
+    },
+    {
+      "page": 134,
+      "status": "pass",
+      "label": "Book 5 · epigrams 12–15",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 136,
+      "status": "pass",
+      "label": "Book 5 · epigrams 16–19",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 138,
+      "status": "pass",
+      "label": "Book 5 · epigrams 19–22",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 140,
+      "status": "review",
+      "label": "Book 5 · epigrams 23–26",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 12,
+      "issues": 1
+    },
+    {
+      "page": 142,
+      "status": "pass",
+      "label": "Book 5 · epigrams 27–30",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 144,
+      "status": "pass",
+      "label": "Book 5 · epigrams 31–35",
+      "fragments": 5,
+      "notes": 3,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 146,
+      "status": "pass",
+      "label": "Book 5 · epigrams 35–38",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 12,
+      "issues": 0
+    },
+    {
+      "page": 148,
+      "status": "pass",
+      "label": "Book 5 · epigrams 39–42",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 13,
+      "issues": 0
+    },
+    {
+      "page": 150,
+      "status": "pass",
+      "label": "Book 5 · epigrams 43–46",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 152,
+      "status": "pass",
+      "label": "Book 5 · epigrams 46–50",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 154,
+      "status": "pass",
+      "label": "Book 5 · epigrams 51–55",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 156,
+      "status": "pass",
+      "label": "Book 5 · epigrams 55–59",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 158,
+      "status": "pass",
+      "label": "Book 5 · epigrams 60–64",
+      "fragments": 5,
+      "notes": 4,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 160,
+      "status": "review",
+      "label": "Book 5 · epigrams 64–68",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 12,
+      "issues": 1
+    },
+    {
+      "page": 162,
+      "status": "pass",
+      "label": "Book 5 · epigrams 69–72",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 164,
+      "status": "review",
+      "label": "Book 5 · epigrams 73–76",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 1
+    },
+    {
+      "page": 166,
+      "status": "review",
+      "label": "Book 5 · epigrams 76–81",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 1
+    },
+    {
+      "page": 168,
+      "status": "review",
+      "label": "Book 5 · epigrams 82–86",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 13,
+      "issues": 3
+    },
+    {
+      "page": 170,
+      "status": "pass",
+      "label": "Book 5 · epigrams 87–91",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 172,
+      "status": "pass",
+      "label": "Book 5 · epigrams 92–96",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 174,
+      "status": "pass",
+      "label": "Book 5 · epigrams 97–101",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 176,
+      "status": "pass",
+      "label": "Book 5 · epigrams 102–106",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 178,
+      "status": "pass",
+      "label": "Book 5 · epigrams 106–109",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 180,
+      "status": "pass",
+      "label": "Book 5 · epigrams 110–113",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 182,
+      "status": "review",
+      "label": "Book 5 · epigrams 113–116",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 9,
+      "issues": 1
+    },
+    {
+      "page": 184,
+      "status": "review",
+      "label": "Book 5 · epigrams 117–121",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 1
+    },
+    {
+      "page": 186,
+      "status": "pass",
+      "label": "Book 5 · epigrams 122–125",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 188,
+      "status": "review",
+      "label": "Book 5 · epigrams 126–129",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 190,
+      "status": "pass",
+      "label": "Book 5 · epigrams 129–132",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 192,
+      "status": "review",
+      "label": "Book 5 · epigrams 133–136",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 8,
+      "issues": 1
+    },
+    {
+      "page": 194,
+      "status": "pass",
+      "label": "Book 5 · epigrams 137–140",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 196,
+      "status": "review",
+      "label": "Book 5 · epigrams 141–145",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 14,
+      "issues": 1
+    },
+    {
+      "page": 198,
+      "status": "pass",
+      "label": "Book 5 · epigrams 146–150",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 200,
+      "status": "pass",
+      "label": "Book 5 · epigrams 150–153",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 202,
+      "status": "review",
+      "label": "Book 5 · epigrams 154–159",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 2
+    },
+    {
+      "page": 204,
+      "status": "review",
+      "label": "Book 5 · epigrams 160–163",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 5,
+      "issues": 1
+    },
+    {
+      "page": 206,
+      "status": "pass",
+      "label": "Book 5 · epigrams 164–167",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 208,
+      "status": "review",
+      "label": "Book 5 · epigrams 167–170",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 10,
+      "issues": 2
+    },
+    {
+      "page": 210,
+      "status": "review",
+      "label": "Book 5 · epigrams 171–174",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 1
+    },
+    {
+      "page": 212,
+      "status": "review",
+      "label": "Book 5 · epigrams 175–177",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 1
+    },
+    {
+      "page": 214,
+      "status": "pass",
+      "label": "Book 5 · epigrams 178–180",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 216,
+      "status": "pass",
+      "label": "Book 5 · epigrams 180–182",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 12,
+      "issues": 0
+    },
+    {
+      "page": 218,
+      "status": "review",
+      "label": "Book 5 · epigrams 182–185",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 12,
+      "issues": 1
+    },
+    {
+      "page": 220,
+      "status": "pass",
+      "label": "Book 5 · epigrams 185–189",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 222,
+      "status": "pass",
+      "label": "Book 5 · epigrams 189–193",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 224,
+      "status": "pass",
+      "label": "Book 5 · epigrams 193–197",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 226,
+      "status": "pass",
+      "label": "Book 5 · epigrams 197–201",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 228,
+      "status": "pass",
+      "label": "Book 5 · epigrams 202–204",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 230,
+      "status": "pass",
+      "label": "Book 5 · epigrams 205–208",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 232,
+      "status": "review",
+      "label": "Book 5 · epigrams 209–212",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 11,
+      "issues": 1
+    },
+    {
+      "page": 234,
+      "status": "pass",
+      "label": "Book 5 · epigrams 213–216",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 236,
+      "status": "pass",
+      "label": "Book 5 · epigrams 217–219",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 238,
+      "status": "pass",
+      "label": "Book 5 · epigrams 220–222",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 240,
+      "status": "review",
+      "label": "Book 5 · epigrams 223–226",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 11,
+      "issues": 1
+    },
+    {
+      "page": 242,
+      "status": "pass",
+      "label": "Book 5 · epigrams 227–230",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 244,
+      "status": "pass",
+      "label": "Book 5 · epigrams 230–233",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 246,
+      "status": "pass",
+      "label": "Book 5 · epigrams 234–237",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 248,
+      "status": "review",
+      "label": "Book 5 · epigrams 237–239",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 7,
+      "issues": 1
+    },
+    {
+      "page": 250,
+      "status": "pass",
+      "label": "Book 5 · epigrams 240–243",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 252,
+      "status": "pass",
+      "label": "Book 5 · epigrams 243–246",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 254,
+      "status": "pass",
+      "label": "Book 5 · epigrams 246–249",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 256,
+      "status": "pass",
+      "label": "Book 5 · epigrams 250–253",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 258,
+      "status": "pass",
+      "label": "Book 5 · epigrams 254–255",
+      "fragments": 2,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 260,
+      "status": "pass",
+      "label": "Book 5 · epigrams 256–259",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 262,
+      "status": "pass",
+      "label": "Book 5 · epigrams 259–262",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 264,
+      "status": "pass",
+      "label": "Book 5 · epigrams 263–265",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 266,
+      "status": "pass",
+      "label": "Book 5 · epigrams 266–268",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 268,
+      "status": "pass",
+      "label": "Book 5 · epigrams 268–271",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 270,
+      "status": "pass",
+      "label": "Book 5 · epigrams 271–274",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 272,
+      "status": "pass",
+      "label": "Book 5 · epigrams 275–277",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 13,
+      "issues": 0
+    },
+    {
+      "page": 274,
+      "status": "pass",
+      "label": "Book 5 · epigrams 278–281",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 276,
+      "status": "pass",
+      "label": "Book 5 · epigrams 281–285",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 278,
+      "status": "pass",
+      "label": "Book 5 · epigrams 285–287",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 280,
+      "status": "pass",
+      "label": "Book 5 · epigrams 288–291",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 282,
+      "status": "pass",
+      "label": "Book 5 · epigrams 291–293",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 284,
+      "status": "pass",
+      "label": "Book 5 · epigrams 293–294",
+      "fragments": 2,
+      "notes": 1,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 286,
+      "status": "review",
+      "label": "Book 5 · epigrams 295–298",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 1
+    },
+    {
+      "page": 288,
+      "status": "pass",
+      "label": "Book 5 · epigrams 298–301",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 290,
+      "status": "pass",
+      "label": "Book 5 · epigrams 301–302",
+      "fragments": 2,
+      "notes": 2,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 292,
+      "status": "review",
+      "label": "Book 5 · epigrams 303–307",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 8,
+      "issues": 1
+    },
+    {
+      "page": 294,
+      "status": "review",
+      "label": "Book 5 · epigrams 308–309",
+      "fragments": 2,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 1
+    },
+    {
+      "page": 296,
+      "status": "pass",
+      "label": "Book 6 — introductory matter",
+      "fragments": 1,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 298,
+      "status": "review",
+      "label": "Book 6 · epigrams 1a–2",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 1
+    },
+    {
+      "page": 300,
+      "status": "pass",
+      "label": "Book 6 · epigrams 3–6",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 0
+    },
+    {
+      "page": 302,
+      "status": "pass",
+      "label": "Book 6 · epigrams 7–11",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 304,
+      "status": "pass",
+      "label": "Book 6 · epigrams 12–15",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 0
+    },
+    {
+      "page": 306,
+      "status": "pass",
+      "label": "Book 6 · epigrams 16–19",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 308,
+      "status": "pass",
+      "label": "Book 6 · epigrams 20–23",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 310,
+      "status": "pass",
+      "label": "Book 6 · epigrams 23–26",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 312,
+      "status": "pass",
+      "label": "Book 6 · epigrams 27–30",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 314,
+      "status": "pass",
+      "label": "Book 6 · epigrams 30–33",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 316,
+      "status": "pass",
+      "label": "Book 6 · epigrams 34–37",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 318,
+      "status": "pass",
+      "label": "Book 6 · epigrams 38–40",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 320,
+      "status": "review",
+      "label": "Book 6 · epigrams 41–44",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 322,
+      "status": "pass",
+      "label": "Book 6 · epigrams 44–48",
+      "fragments": 5,
+      "notes": 3,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 324,
+      "status": "pass",
+      "label": "Book 6 · epigrams 48–51",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 326,
+      "status": "pass",
+      "label": "Book 6 · epigrams 52–55",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 328,
+      "status": "pass",
+      "label": "Book 6 · epigrams 56–59",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 0
+    },
+    {
+      "page": 330,
+      "status": "review",
+      "label": "Book 6 · epigrams 60–63",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 332,
+      "status": "pass",
+      "label": "Book 6 · epigrams 63–65",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 334,
+      "status": "pass",
+      "label": "Book 6 · epigrams 66–68",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 336,
+      "status": "pass",
+      "label": "Book 6 · epigrams 68–71",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 338,
+      "status": "review",
+      "label": "Book 6 · epigrams 71–74",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 0
+    },
+    {
+      "page": 340,
+      "status": "pass",
+      "label": "Book 6 · epigrams 75–78",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 342,
+      "status": "review",
+      "label": "Book 6 · epigrams 79–82",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 10,
+      "issues": 1
+    },
+    {
+      "page": 344,
+      "status": "pass",
+      "label": "Book 6 · epigrams 83–86",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 346,
+      "status": "pass",
+      "label": "Book 6 · epigrams 87–90",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 348,
+      "status": "pass",
+      "label": "Book 6 · epigrams 91–94",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 350,
+      "status": "pass",
+      "label": "Book 6 · epigrams 95–98",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 352,
+      "status": "pass",
+      "label": "Book 6 · epigrams 99–102",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 14,
+      "issues": 0
+    },
+    {
+      "page": 354,
+      "status": "pass",
+      "label": "Book 6 · epigrams 102–104",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 356,
+      "status": "pass",
+      "label": "Book 6 · epigrams 105–108",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 358,
+      "status": "pass",
+      "label": "Book 6 · epigrams 109–112",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 360,
+      "status": "pass",
+      "label": "Book 6 · epigrams 113–115",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 362,
+      "status": "pass",
+      "label": "Book 6 · epigrams 116–119",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 364,
+      "status": "pass",
+      "label": "Book 6 · epigrams 120–123",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 366,
+      "status": "pass",
+      "label": "Book 6 · epigrams 124–127",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 368,
+      "status": "pass",
+      "label": "Book 6 · epigrams 128–132",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 13,
+      "issues": 0
+    },
+    {
+      "page": 370,
+      "status": "pass",
+      "label": "Book 6 · epigrams 132–138",
+      "fragments": 7,
+      "notes": 2,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 372,
+      "status": "pass",
+      "label": "Book 6 · epigrams 139–144",
+      "fragments": 6,
+      "notes": 1,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 374,
+      "status": "pass",
+      "label": "Book 6 · epigrams 145–149",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 376,
+      "status": "pass",
+      "label": "Book 6 · epigrams 150–154",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 378,
+      "status": "pass",
+      "label": "Book 6 · epigrams 154–158",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 380,
+      "status": "pass",
+      "label": "Book 6 · epigrams 158–161",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 382,
+      "status": "pass",
+      "label": "Book 6 · epigrams 162–165",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 384,
+      "status": "pass",
+      "label": "Book 6 · epigrams 166–169",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 386,
+      "status": "review",
+      "label": "Book 6 · epigrams 170–173",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 8,
+      "issues": 1
+    },
+    {
+      "page": 388,
+      "status": "pass",
+      "label": "Book 6 · epigrams 173–177",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 390,
+      "status": "review",
+      "label": "Book 6 · epigrams 177–181",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 1
+    },
+    {
+      "page": 392,
+      "status": "pass",
+      "label": "Book 6 · epigrams 181–184",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 394,
+      "status": "pass",
+      "label": "Book 6 · epigrams 185–188",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 13,
+      "issues": 0
+    },
+    {
+      "page": 396,
+      "status": "pass",
+      "label": "Book 6 · epigrams 188–191",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 13,
+      "issues": 0
+    },
+    {
+      "page": 398,
+      "status": "pass",
+      "label": "Book 6 · epigrams 192–195",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 400,
+      "status": "pass",
+      "label": "Book 6 · epigrams 196–199",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 3,
+      "issues": 0
+    },
+    {
+      "page": 402,
+      "status": "pass",
+      "label": "Book 6 · epigrams 200–203",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 404,
+      "status": "pass",
+      "label": "Book 6 · epigrams 204–206",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 406,
+      "status": "pass",
+      "label": "Book 6 · epigrams 207–209",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 408,
+      "status": "pass",
+      "label": "Book 6 · epigrams 210–213",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 410,
+      "status": "pass",
+      "label": "Book 6 · epigrams 214–217",
+      "fragments": 4,
+      "notes": 5,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 412,
+      "status": "pass",
+      "label": "Book 6 · epigrams 218–219",
+      "fragments": 2,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 414,
+      "status": "pass",
+      "label": "Book 6 · epigrams 219–221",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 416,
+      "status": "pass",
+      "label": "Book 6 · epigrams 221–224",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 418,
+      "status": "pass",
+      "label": "Book 6 · epigrams 224–227",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 13,
+      "issues": 0
+    },
+    {
+      "page": 420,
+      "status": "pass",
+      "label": "Book 6 · epigrams 228–231",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 422,
+      "status": "pass",
+      "label": "Book 6 · epigrams 231–234",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 424,
+      "status": "pass",
+      "label": "Book 6 · epigrams 234–237",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 426,
+      "status": "review",
+      "label": "Book 6 · epigrams 238–241",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 4,
+      "issues": 1
+    },
+    {
+      "page": 428,
+      "status": "pass",
+      "label": "Book 6 · epigrams 242–245",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 4,
+      "issues": 0
+    },
+    {
+      "page": 430,
+      "status": "pass",
+      "label": "Book 6 · epigrams 245–248",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 432,
+      "status": "review",
+      "label": "Book 6 · epigrams 248–251",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 434,
+      "status": "pass",
+      "label": "Book 6 · epigrams 251–254",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 436,
+      "status": "pass",
+      "label": "Book 6 · epigrams 254–257",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 12,
+      "issues": 0
+    },
+    {
+      "page": 438,
+      "status": "pass",
+      "label": "Book 6 · epigrams 258–261",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 440,
+      "status": "pass",
+      "label": "Book 6 · epigrams 261–265",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 442,
+      "status": "pass",
+      "label": "Book 6 · epigrams 266–269",
+      "fragments": 4,
+      "notes": 4,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 444,
+      "status": "pass",
+      "label": "Book 6 · epigrams 269–273",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 446,
+      "status": "pass",
+      "label": "Book 6 · epigrams 274–277",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 448,
+      "status": "pass",
+      "label": "Book 6 · epigrams 278–281",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 450,
+      "status": "pass",
+      "label": "Book 6 · epigrams 282–285",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 452,
+      "status": "pass",
+      "label": "Book 6 · epigrams 285–288",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 454,
+      "status": "pass",
+      "label": "Book 6 · epigrams 288–291",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 456,
+      "status": "pass",
+      "label": "Book 6 · epigrams 292–295",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 458,
+      "status": "pass",
+      "label": "Book 6 · epigrams 295–298",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 460,
+      "status": "pass",
+      "label": "Book 6 · epigrams 299–302",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 462,
+      "status": "pass",
+      "label": "Book 6 · epigrams 302–305",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 464,
+      "status": "pass",
+      "label": "Book 6 · epigrams 305–307",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 6,
+      "issues": 0
+    },
+    {
+      "page": 466,
+      "status": "review",
+      "label": "Book 6 · epigrams 308–311",
+      "fragments": 4,
+      "notes": 5,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 468,
+      "status": "pass",
+      "label": "Book 6 · epigrams 312–316",
+      "fragments": 5,
+      "notes": 3,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 470,
+      "status": "pass",
+      "label": "Book 6 · epigrams 317–322",
+      "fragments": 6,
+      "notes": 3,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 472,
+      "status": "pass",
+      "label": "Book 6 · epigrams 323–328",
+      "fragments": 6,
+      "notes": 1,
+      "corrections": 7,
+      "issues": 0
+    },
+    {
+      "page": 474,
+      "status": "pass",
+      "label": "Book 6 · epigrams 329–332",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 476,
+      "status": "review",
+      "label": "Book 6 · epigrams 332–335",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 8,
+      "issues": 1
+    },
+    {
+      "page": 478,
+      "status": "pass",
+      "label": "Book 6 · epigrams 336–339",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 480,
+      "status": "pass",
+      "label": "Book 6 · epigrams 340–343",
+      "fragments": 4,
+      "notes": 4,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 482,
+      "status": "pass",
+      "label": "Book 6 · epigrams 343–348",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 484,
+      "status": "pass",
+      "label": "Book 6 · epigrams 348–352",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 486,
+      "status": "pass",
+      "label": "Book 6 · epigrams 352–356",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 10,
+      "issues": 0
+    },
+    {
+      "page": 488,
+      "status": "pass",
+      "label": "Book 6 · epigrams 357–358",
+      "fragments": 2,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    }
+  ]
+}

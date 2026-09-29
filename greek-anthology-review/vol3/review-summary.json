@@ -1,0 +1,2008 @@
+{
+  "volume": 3,
+  "label": "Loeb Greek Anthology, Volume III",
+  "counts": {
+    "review": 181,
+    "pass": 41
+  },
+  "spreads": [
+    {
+      "page": 2,
+      "status": "review",
+      "label": "Book 9 · epigrams 1–3",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 4
+    },
+    {
+      "page": 4,
+      "status": "pass",
+      "label": "Book 9 · epigrams 3–7",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 0
+    },
+    {
+      "page": 6,
+      "status": "pass",
+      "label": "Book 9 · epigrams 8–11",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 0
+    },
+    {
+      "page": 8,
+      "status": "pass",
+      "label": "Book 9 · epigrams 12–14",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 10,
+      "status": "pass",
+      "label": "Book 9 · epigrams 15–18",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 12,
+      "status": "review",
+      "label": "Book 9 · epigrams 19–21",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 3
+    },
+    {
+      "page": 14,
+      "status": "review",
+      "label": "Book 9 · epigrams 22–25",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 4
+    },
+    {
+      "page": 16,
+      "status": "review",
+      "label": "Book 9 · epigrams 26–28",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 3
+    },
+    {
+      "page": 18,
+      "status": "review",
+      "label": "Book 9 · epigrams 28–32",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 1
+    },
+    {
+      "page": 20,
+      "status": "pass",
+      "label": "Book 9 · epigrams 33–36",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 22,
+      "status": "review",
+      "label": "Book 9 · epigrams 37–40",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 10,
+      "issues": 3
+    },
+    {
+      "page": 24,
+      "status": "review",
+      "label": "Book 9 · epigrams 41–44",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 4
+    },
+    {
+      "page": 26,
+      "status": "review",
+      "label": "Book 9 · epigrams 45–49",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 2
+    },
+    {
+      "page": 28,
+      "status": "review",
+      "label": "Book 9 · epigrams 50–55",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 9
+    },
+    {
+      "page": 30,
+      "status": "pass",
+      "label": "Book 9 · epigrams 56–58",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 32,
+      "status": "review",
+      "label": "Book 9 · epigrams 59–62",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 2,
+      "issues": 1
+    },
+    {
+      "page": 34,
+      "status": "pass",
+      "label": "Book 9 · epigrams 63–66",
+      "fragments": 5,
+      "notes": 4,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 36,
+      "status": "pass",
+      "label": "Book 9 · epigrams 67–71",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 38,
+      "status": "review",
+      "label": "Book 9 · epigrams 72–75",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 1
+    },
+    {
+      "page": 40,
+      "status": "review",
+      "label": "Book 9 · epigrams 76–79",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 4
+    },
+    {
+      "page": 42,
+      "status": "review",
+      "label": "Book 9 · epigrams 80–83",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 2,
+      "issues": 1
+    },
+    {
+      "page": 44,
+      "status": "review",
+      "label": "Book 9 · epigrams 83–86",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 10
+    },
+    {
+      "page": 46,
+      "status": "review",
+      "label": "Book 9 · epigrams 87–89",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 7
+    },
+    {
+      "page": 48,
+      "status": "review",
+      "label": "Book 9 · epigrams 90–94",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 3
+    },
+    {
+      "page": 50,
+      "status": "review",
+      "label": "Book 9 · epigrams 94–97",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 6,
+      "issues": 3
+    },
+    {
+      "page": 52,
+      "status": "review",
+      "label": "Book 9 · epigrams 98–101",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 4,
+      "issues": 7
+    },
+    {
+      "page": 54,
+      "status": "review",
+      "label": "Book 9 · epigrams 101–104",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 4
+    },
+    {
+      "page": 56,
+      "status": "pass",
+      "label": "Book 9 · epigrams 105–109",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 11,
+      "issues": 0
+    },
+    {
+      "page": 58,
+      "status": "review",
+      "label": "Book 9 · epigrams 109–113",
+      "fragments": 5,
+      "notes": 3,
+      "corrections": 1,
+      "issues": 7
+    },
+    {
+      "page": 60,
+      "status": "review",
+      "label": "Book 9 · epigrams 114–116",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 5
+    },
+    {
+      "page": 62,
+      "status": "review",
+      "label": "Book 9 · epigrams 117–121",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 3
+    },
+    {
+      "page": 64,
+      "status": "review",
+      "label": "Book 9 · epigrams 122–125",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 10
+    },
+    {
+      "page": 66,
+      "status": "review",
+      "label": "Book 9 · epigrams 126–129",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 8
+    },
+    {
+      "page": 68,
+      "status": "review",
+      "label": "Book 9 · epigrams 130–134",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 4
+    },
+    {
+      "page": 70,
+      "status": "review",
+      "label": "Book 9 · epigrams 135–138",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 6
+    },
+    {
+      "page": 72,
+      "status": "review",
+      "label": "Book 9 · epigrams 139–142",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 3
+    },
+    {
+      "page": 74,
+      "status": "review",
+      "label": "Book 9 · epigrams 143–146",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 11,
+      "issues": 6
+    },
+    {
+      "page": 76,
+      "status": "review",
+      "label": "Book 9 · epigrams 147–150",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 4
+    },
+    {
+      "page": 78,
+      "status": "pass",
+      "label": "Book 9 · epigrams 151–153",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 80,
+      "status": "review",
+      "label": "Book 9 · epigrams 154–156",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 6,
+      "issues": 1
+    },
+    {
+      "page": 82,
+      "status": "review",
+      "label": "Book 9 · epigrams 157–159",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 1
+    },
+    {
+      "page": 84,
+      "status": "pass",
+      "label": "Book 9 · epigrams 160–164",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 86,
+      "status": "review",
+      "label": "Book 9 · epigrams 165–168",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 7
+    },
+    {
+      "page": 88,
+      "status": "review",
+      "label": "Book 9 · epigrams 169–172",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 8,
+      "issues": 6
+    },
+    {
+      "page": 90,
+      "status": "review",
+      "label": "Book 9 · epigrams 173–175",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 2
+    },
+    {
+      "page": 92,
+      "status": "review",
+      "label": "Book 9 · epigrams 176–178",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 7
+    },
+    {
+      "page": 94,
+      "status": "pass",
+      "label": "Book 9 · epigrams 179–183",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 96,
+      "status": "review",
+      "label": "Book 9 · epigrams 183–186",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 11
+    },
+    {
+      "page": 98,
+      "status": "review",
+      "label": "Book 9 · epigrams 187–190",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 5
+    },
+    {
+      "page": 100,
+      "status": "review",
+      "label": "Book 9 · epigrams 190–193",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 19,
+      "issues": 5
+    },
+    {
+      "page": 102,
+      "status": "pass",
+      "label": "Book 9 · epigrams 194–198",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 104,
+      "status": "review",
+      "label": "Book 9 · epigrams 199–202",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 7
+    },
+    {
+      "page": 106,
+      "status": "review",
+      "label": "Book 9 · epigrams 203–206",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 4
+    },
+    {
+      "page": 108,
+      "status": "review",
+      "label": "Book 9 · epigrams 206–210",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 4
+    },
+    {
+      "page": 110,
+      "status": "review",
+      "label": "Book 9 · epigrams 210–214",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 4
+    },
+    {
+      "page": 112,
+      "status": "review",
+      "label": "Book 9 · epigrams 215–218",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 5
+    },
+    {
+      "page": 114,
+      "status": "review",
+      "label": "Book 9 · epigrams 218–221",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 3,
+      "issues": 2
+    },
+    {
+      "page": 116,
+      "status": "pass",
+      "label": "Book 9 · epigrams 222–224",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 118,
+      "status": "review",
+      "label": "Book 9 · epigrams 225–228",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 2
+    },
+    {
+      "page": 120,
+      "status": "review",
+      "label": "Book 9 · epigrams 229–231",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 10
+    },
+    {
+      "page": 122,
+      "status": "pass",
+      "label": "Book 9 · epigrams 232–235",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 124,
+      "status": "review",
+      "label": "Book 9 · epigrams 236–238",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 7
+    },
+    {
+      "page": 126,
+      "status": "review",
+      "label": "Book 9 · epigrams 239–242",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 1,
+      "issues": 8
+    },
+    {
+      "page": 128,
+      "status": "review",
+      "label": "Book 9 · epigrams 243–245",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 5,
+      "issues": 14
+    },
+    {
+      "page": 130,
+      "status": "review",
+      "label": "Book 9 · epigrams 246–248",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 2
+    },
+    {
+      "page": 132,
+      "status": "review",
+      "label": "Book 9 · epigrams 249–252",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 1
+    },
+    {
+      "page": 134,
+      "status": "review",
+      "label": "Book 9 · epigrams 253–255",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 1
+    },
+    {
+      "page": 136,
+      "status": "review",
+      "label": "Book 9 · epigrams 256–258",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 5,
+      "issues": 1
+    },
+    {
+      "page": 138,
+      "status": "review",
+      "label": "Book 9 · epigrams 259–263",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 1
+    },
+    {
+      "page": 140,
+      "status": "review",
+      "label": "Book 9 · epigrams 263–266",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 9
+    },
+    {
+      "page": 142,
+      "status": "review",
+      "label": "Book 9 · epigrams 266–269",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 7
+    },
+    {
+      "page": 144,
+      "status": "review",
+      "label": "Book 9 · epigrams 269–272",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 3,
+      "issues": 8
+    },
+    {
+      "page": 146,
+      "status": "review",
+      "label": "Book 9 · epigrams 273–276",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 5
+    },
+    {
+      "page": 148,
+      "status": "review",
+      "label": "Book 9 · epigrams 277–280",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 150,
+      "status": "review",
+      "label": "Book 9 · epigrams 281–283",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 8
+    },
+    {
+      "page": 152,
+      "status": "review",
+      "label": "Book 9 · epigrams 283–286",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 5
+    },
+    {
+      "page": 154,
+      "status": "pass",
+      "label": "Book 9 · epigrams 287–289",
+      "fragments": 3,
+      "notes": 4,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 156,
+      "status": "review",
+      "label": "Book 9 · epigrams 290–293",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 10,
+      "issues": 6
+    },
+    {
+      "page": 158,
+      "status": "review",
+      "label": "Book 9 · epigrams 294–296",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 8
+    },
+    {
+      "page": 160,
+      "status": "review",
+      "label": "Book 9 · epigrams 297–300",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 7
+    },
+    {
+      "page": 162,
+      "status": "review",
+      "label": "Book 9 · epigrams 301–304",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 13,
+      "issues": 2
+    },
+    {
+      "page": 164,
+      "status": "review",
+      "label": "Book 9 · epigrams 305–307",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 3
+    },
+    {
+      "page": 166,
+      "status": "review",
+      "label": "Book 9 · epigrams 308–311",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 8
+    },
+    {
+      "page": 168,
+      "status": "review",
+      "label": "Book 9 · epigrams 311–314",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 1
+    },
+    {
+      "page": 170,
+      "status": "review",
+      "label": "Book 9 · epigrams 315–317",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 10,
+      "issues": 6
+    },
+    {
+      "page": 172,
+      "status": "review",
+      "label": "Book 9 · epigrams 317–321",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 12,
+      "issues": 6
+    },
+    {
+      "page": 174,
+      "status": "review",
+      "label": "Book 9 · epigrams 322–324",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 7
+    },
+    {
+      "page": 176,
+      "status": "review",
+      "label": "Book 9 · epigrams 325–328",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 5
+    },
+    {
+      "page": 178,
+      "status": "review",
+      "label": "Book 9 · epigrams 329–331",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 8,
+      "issues": 7
+    },
+    {
+      "page": 180,
+      "status": "review",
+      "label": "Book 9 · epigrams 332–336",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 7
+    },
+    {
+      "page": 182,
+      "status": "review",
+      "label": "Book 9 · epigrams 337–340",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 4
+    },
+    {
+      "page": 184,
+      "status": "review",
+      "label": "Book 9 · epigrams 340–343",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 8,
+      "issues": 4
+    },
+    {
+      "page": 186,
+      "status": "review",
+      "label": "Book 9 · epigrams 344–348",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 5
+    },
+    {
+      "page": 188,
+      "status": "review",
+      "label": "Book 9 · epigrams 349–353",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 8
+    },
+    {
+      "page": 190,
+      "status": "review",
+      "label": "Book 9 · epigrams 354–357",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 5
+    },
+    {
+      "page": 192,
+      "status": "review",
+      "label": "Book 9 · epigrams 358–360",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 5
+    },
+    {
+      "page": 194,
+      "status": "review",
+      "label": "Book 9 · epigrams 361–362",
+      "fragments": 2,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 7
+    },
+    {
+      "page": 196,
+      "status": "review",
+      "label": "Book 9 · epigrams 362–363",
+      "fragments": 2,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 9
+    },
+    {
+      "page": 198,
+      "status": "review",
+      "label": "Book 9 · epigrams 363–366",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 1
+    },
+    {
+      "page": 200,
+      "status": "pass",
+      "label": "Book 9 · epigrams 366–368",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 8,
+      "issues": 0
+    },
+    {
+      "page": 202,
+      "status": "review",
+      "label": "Book 9 · epigrams 369–371",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 3,
+      "issues": 8
+    },
+    {
+      "page": 204,
+      "status": "pass",
+      "label": "Book 9 · epigrams 372–375",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 206,
+      "status": "review",
+      "label": "Book 9 · epigrams 375–378",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 3
+    },
+    {
+      "page": 208,
+      "status": "review",
+      "label": "Book 9 · epigrams 378–381",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 2
+    },
+    {
+      "page": 210,
+      "status": "review",
+      "label": "Book 9 · epigrams 381–383",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 3
+    },
+    {
+      "page": 212,
+      "status": "pass",
+      "label": "Book 9 · epigrams 384",
+      "fragments": 1,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 0
+    },
+    {
+      "page": 214,
+      "status": "review",
+      "label": "Book 9 · epigrams 385",
+      "fragments": 1,
+      "notes": 0,
+      "corrections": 9,
+      "issues": 2
+    },
+    {
+      "page": 216,
+      "status": "pass",
+      "label": "Book 9 · epigrams 386–390",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 3,
+      "issues": 0
+    },
+    {
+      "page": 218,
+      "status": "review",
+      "label": "Book 9 · epigrams 390–395",
+      "fragments": 6,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 9
+    },
+    {
+      "page": 220,
+      "status": "review",
+      "label": "Book 9 · epigrams 396–399",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 2
+    },
+    {
+      "page": 222,
+      "status": "review",
+      "label": "Book 9 · epigrams 400–404",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 10,
+      "issues": 4
+    },
+    {
+      "page": 224,
+      "status": "review",
+      "label": "Book 9 · epigrams 404–407",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 2,
+      "issues": 7
+    },
+    {
+      "page": 226,
+      "status": "review",
+      "label": "Book 9 · epigrams 407–410",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 3
+    },
+    {
+      "page": 228,
+      "status": "review",
+      "label": "Book 9 · epigrams 411–414",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 8
+    },
+    {
+      "page": 230,
+      "status": "review",
+      "label": "Book 9 · epigrams 415–417",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 4,
+      "issues": 9
+    },
+    {
+      "page": 232,
+      "status": "review",
+      "label": "Book 9 · epigrams 418–421",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 10,
+      "issues": 6
+    },
+    {
+      "page": 234,
+      "status": "review",
+      "label": "Book 9 · epigrams 422–424",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 10,
+      "issues": 9
+    },
+    {
+      "page": 236,
+      "status": "review",
+      "label": "Book 9 · epigrams 425–427",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 6,
+      "issues": 5
+    },
+    {
+      "page": 238,
+      "status": "review",
+      "label": "Book 9 · epigrams 428–431",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 240,
+      "status": "review",
+      "label": "Book 9 · epigrams 432–435",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 6
+    },
+    {
+      "page": 242,
+      "status": "review",
+      "label": "Book 9 · epigrams 436–438",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 2
+    },
+    {
+      "page": 244,
+      "status": "review",
+      "label": "Book 9 · epigrams 438–440",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 6
+    },
+    {
+      "page": 246,
+      "status": "review",
+      "label": "Book 9 · epigrams 441–442",
+      "fragments": 2,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 2
+    },
+    {
+      "page": 248,
+      "status": "pass",
+      "label": "Book 9 · epigrams 442–446",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 0
+    },
+    {
+      "page": 250,
+      "status": "review",
+      "label": "Book 9 · epigrams 446–449",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 5
+    },
+    {
+      "page": 252,
+      "status": "review",
+      "label": "Book 9 · epigrams 450–453",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 5
+    },
+    {
+      "page": 254,
+      "status": "review",
+      "label": "Book 9 · epigrams 454–458",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 5,
+      "issues": 8
+    },
+    {
+      "page": 256,
+      "status": "pass",
+      "label": "Book 9 · epigrams 459–461",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 258,
+      "status": "pass",
+      "label": "Book 9 · epigrams 462–465",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 260,
+      "status": "review",
+      "label": "Book 9 · epigrams 466–470",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 6
+    },
+    {
+      "page": 262,
+      "status": "review",
+      "label": "Book 9 · epigrams 474–473",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 5,
+      "issues": 6
+    },
+    {
+      "page": 264,
+      "status": "review",
+      "label": "Book 9 · epigrams 475–477",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 1
+    },
+    {
+      "page": 266,
+      "status": "review",
+      "label": "Book 9 · epigrams 478–481",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 7,
+      "issues": 10
+    },
+    {
+      "page": 268,
+      "status": "review",
+      "label": "Book 9 · epigrams 482",
+      "fragments": 1,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 7
+    },
+    {
+      "page": 270,
+      "status": "pass",
+      "label": "Book 9 · epigrams 483–485",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 272,
+      "status": "review",
+      "label": "Book 9 · epigrams 486–491",
+      "fragments": 6,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 5
+    },
+    {
+      "page": 274,
+      "status": "review",
+      "label": "Book 9 · epigrams 492–497",
+      "fragments": 6,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 1
+    },
+    {
+      "page": 276,
+      "status": "review",
+      "label": "Book 9 · epigrams 498–502",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 1
+    },
+    {
+      "page": 278,
+      "status": "review",
+      "label": "Book 9 · epigrams 503–505",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 2
+    },
+    {
+      "page": 280,
+      "status": "review",
+      "label": "Book 9 · epigrams 506–507",
+      "fragments": 2,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 7
+    },
+    {
+      "page": 282,
+      "status": "review",
+      "label": "Book 9 · epigrams 508–513",
+      "fragments": 6,
+      "notes": 4,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 284,
+      "status": "pass",
+      "label": "Book 9 · epigrams 514–517",
+      "fragments": 4,
+      "notes": 5,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 286,
+      "status": "pass",
+      "label": "Book 9 · epigrams 518–521",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 288,
+      "status": "review",
+      "label": "Book 9 · epigrams 522–524",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 5
+    },
+    {
+      "page": 290,
+      "status": "review",
+      "label": "Book 9 · epigrams 524–525",
+      "fragments": 2,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 292,
+      "status": "pass",
+      "label": "Book 9 · epigrams 525",
+      "fragments": 1,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 0
+    },
+    {
+      "page": 294,
+      "status": "pass",
+      "label": "Book 9 · epigrams 526–530",
+      "fragments": 5,
+      "notes": 4,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 296,
+      "status": "review",
+      "label": "Book 9 · epigrams 531–535",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 9
+    },
+    {
+      "page": 298,
+      "status": "review",
+      "label": "Book 9 · epigrams 536–541",
+      "fragments": 6,
+      "notes": 3,
+      "corrections": 3,
+      "issues": 6
+    },
+    {
+      "page": 300,
+      "status": "review",
+      "label": "Book 9 · epigrams 542–544",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 10
+    },
+    {
+      "page": 302,
+      "status": "review",
+      "label": "Book 9 · epigrams 544–547",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 5,
+      "issues": 5
+    },
+    {
+      "page": 304,
+      "status": "review",
+      "label": "Book 9 · epigrams 548–551",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 3,
+      "issues": 10
+    },
+    {
+      "page": 306,
+      "status": "review",
+      "label": "Book 9 · epigrams 551–554",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 8,
+      "issues": 8
+    },
+    {
+      "page": 308,
+      "status": "review",
+      "label": "Book 9 · epigrams 555–557",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 8,
+      "issues": 4
+    },
+    {
+      "page": 310,
+      "status": "review",
+      "label": "Book 9 · epigrams 558–561",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 3
+    },
+    {
+      "page": 312,
+      "status": "review",
+      "label": "Book 9 · epigrams 562–564",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 7
+    },
+    {
+      "page": 314,
+      "status": "review",
+      "label": "Book 9 · epigrams 565–568",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 7,
+      "issues": 3
+    },
+    {
+      "page": 316,
+      "status": "review",
+      "label": "Book 9 · epigrams 568–570",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 8
+    },
+    {
+      "page": 318,
+      "status": "review",
+      "label": "Book 9 · epigrams 571–573",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 4
+    },
+    {
+      "page": 320,
+      "status": "review",
+      "label": "Book 9 · epigrams 574–577",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 1
+    },
+    {
+      "page": 322,
+      "status": "review",
+      "label": "Book 9 · epigrams 578–580",
+      "fragments": 3,
+      "notes": 6,
+      "corrections": 0,
+      "issues": 5
+    },
+    {
+      "page": 324,
+      "status": "review",
+      "label": "Book 9 · epigrams 581–584",
+      "fragments": 4,
+      "notes": 4,
+      "corrections": 0,
+      "issues": 6
+    },
+    {
+      "page": 326,
+      "status": "review",
+      "label": "Book 9 · epigrams 585–586",
+      "fragments": 2,
+      "notes": 0,
+      "corrections": 4,
+      "issues": 9
+    },
+    {
+      "page": 328,
+      "status": "review",
+      "label": "Book 9 · epigrams 587–590",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 1,
+      "issues": 8
+    },
+    {
+      "page": 330,
+      "status": "pass",
+      "label": "Book 9 · epigrams 591–595",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 332,
+      "status": "pass",
+      "label": "Book 9 · epigrams 596–598",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 0
+    },
+    {
+      "page": 334,
+      "status": "review",
+      "label": "Book 9 · epigrams 599–601",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 6
+    },
+    {
+      "page": 336,
+      "status": "review",
+      "label": "Book 9 · epigrams 602–605",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 7
+    },
+    {
+      "page": 338,
+      "status": "review",
+      "label": "Book 9 · epigrams 606–610",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 8
+    },
+    {
+      "page": 340,
+      "status": "review",
+      "label": "Book 9 · epigrams 611–615",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 4,
+      "issues": 4
+    },
+    {
+      "page": 342,
+      "status": "review",
+      "label": "Book 9 · epigrams 616–618",
+      "fragments": 3,
+      "notes": 3,
+      "corrections": 0,
+      "issues": 6
+    },
+    {
+      "page": 344,
+      "status": "review",
+      "label": "Book 9 · epigrams 619–622",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 3
+    },
+    {
+      "page": 346,
+      "status": "review",
+      "label": "Book 9 · epigrams 623–626",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 4,
+      "issues": 4
+    },
+    {
+      "page": 348,
+      "status": "review",
+      "label": "Book 9 · epigrams 627–629",
+      "fragments": 3,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 4
+    },
+    {
+      "page": 350,
+      "status": "review",
+      "label": "Book 9 · epigrams 630–633",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 2,
+      "issues": 4
+    },
+    {
+      "page": 352,
+      "status": "pass",
+      "label": "Book 9 · epigrams 634–640",
+      "fragments": 8,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 354,
+      "status": "review",
+      "label": "Book 9 · epigrams 641–643",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 4
+    },
+    {
+      "page": 356,
+      "status": "review",
+      "label": "Book 9 · epigrams 644–645",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 14
+    },
+    {
+      "page": 358,
+      "status": "pass",
+      "label": "Book 9 · epigrams 646–649",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 360,
+      "status": "review",
+      "label": "Book 9 · epigrams 650–653",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 8
+    },
+    {
+      "page": 362,
+      "status": "review",
+      "label": "Book 9 · epigrams 653–656",
+      "fragments": 5,
+      "notes": 4,
+      "corrections": 0,
+      "issues": 4
+    },
+    {
+      "page": 364,
+      "status": "review",
+      "label": "Book 9 · epigrams 656–658",
+      "fragments": 3,
+      "notes": 4,
+      "corrections": 0,
+      "issues": 6
+    },
+    {
+      "page": 366,
+      "status": "review",
+      "label": "Book 9 · epigrams 658–661",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 3
+    },
+    {
+      "page": 368,
+      "status": "review",
+      "label": "Book 9 · epigrams 662–665",
+      "fragments": 4,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 3
+    },
+    {
+      "page": 370,
+      "status": "review",
+      "label": "Book 9 · epigrams 666–668",
+      "fragments": 4,
+      "notes": 0,
+      "corrections": 7,
+      "issues": 5
+    },
+    {
+      "page": 372,
+      "status": "review",
+      "label": "Book 9 · epigrams 668–670",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 3,
+      "issues": 1
+    },
+    {
+      "page": 374,
+      "status": "review",
+      "label": "Book 9 · epigrams 671–674",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 7,
+      "issues": 6
+    },
+    {
+      "page": 376,
+      "status": "review",
+      "label": "Book 9 · epigrams 675–678",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 1
+    },
+    {
+      "page": 378,
+      "status": "review",
+      "label": "Book 9 · epigrams 679–682",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 4
+    },
+    {
+      "page": 380,
+      "status": "review",
+      "label": "Book 9 · epigrams 683–686",
+      "fragments": 4,
+      "notes": 4,
+      "corrections": 2,
+      "issues": 7
+    },
+    {
+      "page": 382,
+      "status": "review",
+      "label": "Book 9 · epigrams 687–690",
+      "fragments": 4,
+      "notes": 4,
+      "corrections": 2,
+      "issues": 6
+    },
+    {
+      "page": 384,
+      "status": "review",
+      "label": "Book 9 · epigrams 691–696",
+      "fragments": 6,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 1
+    },
+    {
+      "page": 386,
+      "status": "review",
+      "label": "Book 9 · epigrams 697–701",
+      "fragments": 5,
+      "notes": 4,
+      "corrections": 2,
+      "issues": 6
+    },
+    {
+      "page": 388,
+      "status": "review",
+      "label": "Book 9 · epigrams 702–706",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 4
+    },
+    {
+      "page": 390,
+      "status": "review",
+      "label": "Book 9 · epigrams 706–709",
+      "fragments": 4,
+      "notes": 3,
+      "corrections": 1,
+      "issues": 9
+    },
+    {
+      "page": 392,
+      "status": "review",
+      "label": "Book 9 · epigrams 710–714",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 6
+    },
+    {
+      "page": 394,
+      "status": "review",
+      "label": "Book 9 · epigrams 715–721",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 2
+    },
+    {
+      "page": 396,
+      "status": "review",
+      "label": "Book 9 · epigrams 722–727",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 3,
+      "issues": 9
+    },
+    {
+      "page": 398,
+      "status": "pass",
+      "label": "Book 9 · epigrams 728–734",
+      "fragments": 7,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 400,
+      "status": "review",
+      "label": "Book 9 · epigrams 735–740",
+      "fragments": 6,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 6
+    },
+    {
+      "page": 402,
+      "status": "review",
+      "label": "Book 9 · epigrams 740–744",
+      "fragments": 6,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 7
+    },
+    {
+      "page": 404,
+      "status": "review",
+      "label": "Book 9 · epigrams 745–748",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 4
+    },
+    {
+      "page": 406,
+      "status": "pass",
+      "label": "Book 9 · epigrams 749–753",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 408,
+      "status": "pass",
+      "label": "Book 9 · epigrams 754–758",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 410,
+      "status": "pass",
+      "label": "Book 9 · epigrams 759–763",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 412,
+      "status": "pass",
+      "label": "Book 9 · epigrams 764–766",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 0
+    },
+    {
+      "page": 414,
+      "status": "pass",
+      "label": "Book 9 · epigrams 767–769",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 416,
+      "status": "review",
+      "label": "Book 9 · epigrams 770–774",
+      "fragments": 6,
+      "notes": 2,
+      "corrections": 3,
+      "issues": 3
+    },
+    {
+      "page": 418,
+      "status": "review",
+      "label": "Book 9 · epigrams 775–778",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 3,
+      "issues": 9
+    },
+    {
+      "page": 420,
+      "status": "pass",
+      "label": "Book 9 · epigrams 779–781",
+      "fragments": 3,
+      "notes": 4,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 422,
+      "status": "review",
+      "label": "Book 9 · epigrams 782–786",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 9
+    },
+    {
+      "page": 424,
+      "status": "review",
+      "label": "Book 9 · epigrams 786–789",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 2,
+      "issues": 8
+    },
+    {
+      "page": 426,
+      "status": "pass",
+      "label": "Book 9 · epigrams 790–792",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 9,
+      "issues": 0
+    },
+    {
+      "page": 428,
+      "status": "pass",
+      "label": "Book 9 · epigrams 793–797",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 0
+    },
+    {
+      "page": 430,
+      "status": "review",
+      "label": "Book 9 · epigrams 798–801",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 7
+    },
+    {
+      "page": 432,
+      "status": "review",
+      "label": "Book 9 · epigrams 802–806",
+      "fragments": 5,
+      "notes": 0,
+      "corrections": 2,
+      "issues": 1
+    },
+    {
+      "page": 434,
+      "status": "review",
+      "label": "Book 9 · epigrams 807–808",
+      "fragments": 3,
+      "notes": 1,
+      "corrections": 0,
+      "issues": 1
+    },
+    {
+      "page": 436,
+      "status": "review",
+      "label": "Book 9 · epigrams 809–813",
+      "fragments": 5,
+      "notes": 2,
+      "corrections": 0,
+      "issues": 4
+    },
+    {
+      "page": 438,
+      "status": "review",
+      "label": "Book 9 · epigrams 814–817",
+      "fragments": 4,
+      "notes": 2,
+      "corrections": 1,
+      "issues": 7
+    },
+    {
+      "page": 440,
+      "status": "review",
+      "label": "Book 9 · epigrams 818–822",
+      "fragments": 5,
+      "notes": 1,
+      "corrections": 1,
+      "issues": 2
+    },
+    {
+      "page": 442,
+      "status": "review",
+      "label": "Book 9 · epigrams 823–825",
+      "fragments": 3,
+      "notes": 0,
+      "corrections": 0,
+      "issues": 4
+    },
+    {
+      "page": 444,
+      "status": "review",
+      "label": "Book 9 · epigrams 826–827",
+      "fragments": 2,
+      "notes": 0,
+      "corrections": 1,
+      "issues": 1
+    }
+  ]
+}
