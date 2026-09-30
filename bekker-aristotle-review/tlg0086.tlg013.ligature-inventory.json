@@ -563,7 +563,7 @@
     "line": 13
   },
   {
-    "token": "τῶτ",
+    "token": "τοῦτ",
     "classification": "valid_elision",
     "page": 317,
     "scope": "main_text",
@@ -1514,7 +1514,7 @@
     "line": 10
   },
   {
-    "token": "ὅτ",
+    "token": "οὕτ",
     "classification": "valid_elision",
     "page": 327,
     "scope": "main_text",
@@ -2455,7 +2455,7 @@
     "classification": "scan_confirmed_missing_tau_after_sigma"
   },
   {
-    "token": "τότ",
+    "token": "τοῦτ",
     "classification": "valid_elision",
     "page": 335,
     "scope": "main_text",
@@ -2631,7 +2631,7 @@
     "classification": "internal_final_sigma_to_sigma_tau"
   },
   {
-    "token": "τότ",
+    "token": "τοῦτ",
     "classification": "valid_elision",
     "page": 337,
     "scope": "main_text",
@@ -2647,7 +2647,7 @@
     "line": 19
   },
   {
-    "token": "τότ",
+    "token": "τοῦτ",
     "classification": "valid_elision",
     "page": 337,
     "scope": "main_text",
