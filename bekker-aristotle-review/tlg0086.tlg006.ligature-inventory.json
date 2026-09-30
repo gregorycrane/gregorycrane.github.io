@@ -287,14 +287,6 @@
     "classification": "scan_confirmed_missing_tau_after_sigma"
   },
   {
-    "token": "μήτ",
-    "classification": "valid_elision",
-    "page": 2,
-    "scope": "main_text",
-    "column": "a",
-    "line": 13
-  },
-  {
     "page": 3,
     "scope": "line",
     "column": "a",
@@ -1493,24 +1485,6 @@
     "line": 29,
     "sic": "πλείσων",
     "corr": "πλείστων",
-    "classification": "scan_confirmed_missing_tau_after_sigma"
-  },
-  {
-    "page": 10,
-    "scope": "line",
-    "column": "b",
-    "line": 3,
-    "sic": "παλαισρικοὶ",
-    "corr": "παλαιστρικοὶ",
-    "classification": "scan_confirmed_missing_tau_after_sigma"
-  },
-  {
-    "page": 10,
-    "scope": "line",
-    "column": "b",
-    "line": 4,
-    "sic": "παλαισρική",
-    "corr": "παλαιστρική",
     "classification": "scan_confirmed_missing_tau_after_sigma"
   },
   {
