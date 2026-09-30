@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Who Said It? — Aeschylus’ Eumenides</title>
+  <meta name="description" content="A 20-question speaker and scene quiz based on Herbert Weir Smyth’s translation of Aeschylus’ Eumenides.">
+  <link rel="stylesheet" href="styles.css">
+  <script src="questions.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-inner">
+      <p class="eyebrow">Aeschylus · <i>Eumenides</i> · Smyth translation</p>
+      <h1>Who said it?</h1>
+      <p class="dek">Twenty isolated sentences. Identify both the speaker and where the sentence belongs in the play.</p>
+      <div class="hero-actions">
+        <button id="start" class="primary">Start quiz</button>
+        <a class="secondary" href="eumenides-smyth-canvas-qti.zip" download>Canvas QTI</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section id="intro" class="intro" aria-labelledby="how-heading">
+      <h2 id="how-heading">How it works</h2>
+      <p>Choose one speaker and one dramatic phase for every quotation. Each correct field is worth one point, for a total of 40. The score and Smyth line references appear when you submit.</p>
+      <details>
+        <summary>Review the seven dramatic phases</summary>
+        <ol id="phase-list"></ol>
+      </details>
+    </section>
+
+    <form id="quiz" hidden novalidate>
+      <div class="quiz-toolbar">
+        <p><span id="answered">0</span>/20 sentences answered</p>
+        <div class="progress-track" aria-hidden="true"><span id="progress"></span></div>
+      </div>
+      <div id="questions"></div>
+      <div class="submit-wrap">
+        <button class="primary" type="submit">Submit answers</button>
+      </div>
+    </form>
+
+    <section id="results" class="results" hidden aria-live="polite">
+      <p class="eyebrow">Your result</p>
+      <h2><span id="score">0</span> / 40</h2>
+      <p id="score-note"></p>
+      <button id="retry" class="secondary" type="button">Try again</button>
+    </section>
+
+    <section class="about">
+      <h2>Text and attribution</h2>
+      <p>Quotations come from Herbert Weir Smyth’s English translation of Aeschylus’ <i>Eumenides</i>, encoded by the Perseus Digital Library. Line references follow the source TEI.</p>
+      <p><a href="https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0085/tlg007/tlg0085.tlg007.perseus-eng2.xml">View the source XML</a> · <a href="questions.json">Download the question data</a></p>
+    </section>
+  </main>
+</body>
+</html>

@@ -1,0 +1,192 @@
+window.EUMENIDES_QUIZ = {
+  "title": "Who Said It? — Aeschylus’ Eumenides",
+  "source": "https://github.com/PerseusDL/canonical-greekLit/blob/master/data/tlg0085/tlg007/tlg0085.tlg007.perseus-eng2.xml",
+  "speakers": [
+    "The Pythian Priestess",
+    "Apollo",
+    "Orestes",
+    "Ghost of Clytaemestra",
+    "Chorus of Furies",
+    "Athena",
+    "Chorus of the Processional Escort"
+  ],
+  "parts": [
+    {
+      "id": "delphi-prologue",
+      "label": "Delphi: prologue and Orestes’ escape",
+      "range": "lines 1–93"
+    },
+    {
+      "id": "ghost-awakens-furies",
+      "label": "Delphi: Clytaemestra awakens the Furies",
+      "range": "lines 94–177"
+    },
+    {
+      "id": "apollo-confrontation",
+      "label": "Delphi: Apollo confronts the Furies",
+      "range": "lines 178–234"
+    },
+    {
+      "id": "athens-pursuit",
+      "label": "Athens: pursuit, binding song, and Athena’s arrival",
+      "range": "lines 235–565"
+    },
+    {
+      "id": "trial",
+      "label": "Areopagus: trial and verdict",
+      "range": "lines 566–753"
+    },
+    {
+      "id": "reconciliation",
+      "label": "Athens: Orestes departs and Athena reconciles the Furies",
+      "range": "lines 754–915"
+    },
+    {
+      "id": "blessings-procession",
+      "label": "Athens: blessings and final procession",
+      "range": "lines 916–1047"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "quote": "For I prophesy as the god leads.",
+      "speaker": "The Pythian Priestess",
+      "part": "delphi-prologue",
+      "citation": "line 30"
+    },
+    {
+      "id": 2,
+      "quote": "Horrors to tell, horrors for my eyes to see, have sent me back from the house of Loxias, so that I have no strength and I cannot walk upright.",
+      "speaker": "The Pythian Priestess",
+      "part": "delphi-prologue",
+      "citation": "lines 34–35"
+    },
+    {
+      "id": 3,
+      "quote": "For I persuaded you to take your mother’s life.",
+      "speaker": "Apollo",
+      "part": "delphi-prologue",
+      "citation": "line 80"
+    },
+    {
+      "id": 4,
+      "quote": "Lord Apollo, you know how to do no wrong; and, since you know this, learn not to be neglectful also.",
+      "speaker": "Orestes",
+      "part": "delphi-prologue",
+      "citation": "line 85"
+    },
+    {
+      "id": 5,
+      "quote": "Orestes, the murderer of me, his mother, is gone!",
+      "speaker": "Ghost of Clytaemestra",
+      "part": "ghost-awakens-furies",
+      "citation": "line 121"
+    },
+    {
+      "id": 6,
+      "quote": "In a dream you are hunting your prey, and are barking like a dog that never leaves off its keenness for the work.",
+      "speaker": "Ghost of Clytaemestra",
+      "part": "ghost-awakens-furies",
+      "citation": "line 131"
+    },
+    {
+      "id": 7,
+      "quote": "The beast has escaped from our nets and is gone.",
+      "speaker": "Chorus of Furies",
+      "part": "ghost-awakens-furies",
+      "citation": "line 145"
+    },
+    {
+      "id": 8,
+      "quote": "Be gone, you goats without a herdsman! No god loves such a flock.",
+      "speaker": "Apollo",
+      "part": "apollo-confrontation",
+      "citation": "line 195"
+    },
+    {
+      "id": 9,
+      "quote": "Through your oracle, you directed the stranger to kill his mother.",
+      "speaker": "Chorus of Furies",
+      "part": "apollo-confrontation",
+      "citation": "line 202"
+    },
+    {
+      "id": 10,
+      "quote": "Here I will keep watch and await the result of my trial.",
+      "speaker": "Orestes",
+      "part": "athens-pursuit",
+      "citation": "line 240"
+    },
+    {
+      "id": 11,
+      "quote": "The smell of human blood gives me a smiling welcome.",
+      "speaker": "Chorus of Furies",
+      "part": "athens-pursuit",
+      "citation": "line 250"
+    },
+    {
+      "id": 12,
+      "quote": "This is our song over the sacrificial victim—frenzied, maddened, destroying the mind, the Furies’ hymn, a spell to bind the soul, not tuned to the lyre, withering the life of mortals.",
+      "speaker": "Chorus of Furies",
+      "part": "athens-pursuit",
+      "citation": "lines 328–330"
+    },
+    {
+      "id": 13,
+      "quote": "We are the eternal children of Night. We are called Curses in our homes beneath the earth.",
+      "speaker": "Chorus of Furies",
+      "part": "athens-pursuit",
+      "citation": "line 415"
+    },
+    {
+      "id": 14,
+      "quote": "What do you want to say to this, stranger, in turn?",
+      "speaker": "Athena",
+      "part": "athens-pursuit",
+      "citation": "line 436"
+    },
+    {
+      "id": 15,
+      "quote": "Together with me Loxias is responsible for this deed, because he threatened me with pains, a goad for my heart, if I should fail to do this deed to those who were responsible.",
+      "speaker": "Orestes",
+      "part": "athens-pursuit",
+      "citation": "line 465"
+    },
+    {
+      "id": 16,
+      "quote": "The mother of what is called her child is not the parent, but the nurse of the newly-sown embryo.",
+      "speaker": "Apollo",
+      "part": "trial",
+      "citation": "line 657"
+    },
+    {
+      "id": 17,
+      "quote": "In the future, even as now, this court of judges will always exist for the people of Aegeus.",
+      "speaker": "Athena",
+      "part": "trial",
+      "citation": "line 681"
+    },
+    {
+      "id": 18,
+      "quote": "This man is acquitted on the charge of murder, for the numbers of the casts are equal.",
+      "speaker": "Athena",
+      "part": "trial",
+      "citation": "line 752"
+    },
+    {
+      "id": 19,
+      "quote": "For you have not been defeated; the trial resulted fairly in an equal vote, without disgrace to you; but clear testimony from Zeus was present, and he himself who spoke the oracle himself gave witness that Orestes should not suffer harm for his deed.",
+      "speaker": "Athena",
+      "part": "reconciliation",
+      "citation": "line 795"
+    },
+    {
+      "id": 20,
+      "quote": "Peace endures for all time between Pallas’ citizens and these new dwellers here.",
+      "speaker": "Chorus of the Processional Escort",
+      "part": "blessings-procession",
+      "citation": "line 1044"
+    }
+  ]
+};
